@@ -3,10 +3,14 @@
 ## Pre-1619: The Deep Roots of Black Civilization
 
 ### Ancient African Civilizations (c. 3000 BCE and earlier)
-Ancient Egypt: One of the world’s first advanced civilizations, with remarkable achievements in architecture, art, and science.  Kingdom of Kush: Flourished in Nubia (modern-day Sudan), known for its powerful queens and its influence over Egypt.
+Ancient Egypt: One of the world’s first advanced civilizations, with remarkable achievements in architecture, art, and science.
+
+Kingdom of Kush: Flourished in Nubia (modern-day Sudan), known for its powerful queens and its influence over Egypt.
 
 ### Classical and Medieval Empires
-Kingdom of Aksum (c. 100–940 CE): An influential empire in present-day Ethiopia and Eritrea, noted for its early adoption of Christianity.  Trans-Saharan Trade Empires (8th–16th centuries): Ghana, Mali, and Songhai Empires: These West African kingdoms thrived on trade (including gold and salt) and were centers of Islamic scholarship. Mansa Musa’s pilgrimage (c. 1324) remains one of the most celebrated moments in African history.
+Kingdom of Aksum (c. 100–940 CE): An influential empire in present-day Ethiopia and Eritrea, noted for its early adoption of Christianity.
+
+Trans-Saharan Trade Empires (8th–16th centuries): Ghana, Mali, and Songhai Empires: These West African kingdoms thrived on trade (including gold and salt) and were centers of Islamic scholarship. Mansa Musa’s pilgrimage (c. 1324) remains one of the most celebrated moments in African history.
 
 ### Pre-Colonial Kingdoms and Cultures
 In West, Central, and Southern Africa, dynamic societies such as the Kingdom of Benin, the Oyo Empire, and Great Zimbabwe exemplified advanced governance, art, and culture.
