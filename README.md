@@ -1,3 +1,3 @@
-# Black History Timeline
+# Black History
 
-A timeline of black history and events.
+A black history project with a focus on black american history.  Made for black history month.

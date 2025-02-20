@@ -1,5 +1,5 @@
 site_name: Black History Timeline
-repo_url: https://github.com/Chukobyte/learn-engine-dev
+repo_url: https://github.com/Chukobyte/black-history-timeline
 edit_uri: ""
 site_description: A timeline of black history
 site_author: Chukobyte
@@ -11,7 +11,6 @@ plugins:
 
 theme:
   name: material
-  custom_dir: 'docs/theme'
 
 markdown_extensions:
   - pymdownx.highlight
@@ -20,6 +19,4 @@ markdown_extensions:
 
 nav:
   - Introduction: index.md
-  # - Game Loop:
-  #     - Hello Loop: 1.game_loop/hello_loop.md
-  # - Source Code: source_code/source_code.md
+  - Timeline: timeline.md
