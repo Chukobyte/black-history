@@ -15,21 +15,16 @@ Some interpretations of the collosal Olmec heads suggest African features, which
 
 Supposedly Abu Bakr II abdicated the Malian throne to embark on an expidition.  He took 2,000 ships which included sailors, builders, craftsment, and plents supplies.  He never returned and Mansu Musa, who was the previous richest man of the world, claimed the thrown.  If this story is true, they could have possibly had precolumbian contact with America.
 
-### Early European and African Contact (c. 1400 – 1500)
+## Columbian Era (1492): The 'Discovery' of America
+
+### Columbus
 Pedro Alonso Niño, who was a Moor, was a navigator and pilot of one of Columbus' ships.
 
 ![Pedro Alonso Niño](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/pedro_alonso_nino.png)
 
-Other Moorish explorers from North Africa may have joined Spanish and Portugese expiditions.
+### Early European and African Contact (c. 1400 – 1500)
+Other Moorish explorers from North Africa may have joined other Spanish and Portugese expeditions.
 
-
-### Classical and Medieval Empires
-Kingdom of Aksum (c. 100–940 CE): An influential empire in present-day Ethiopia and Eritrea, noted for its early adoption of Christianity.
-
-Trans-Saharan Trade Empires (8th–16th centuries): Ghana, Mali, and Songhai Empires: These West African kingdoms thrived on trade (including gold and salt) and were centers of Islamic scholarship. Mansa Musa’s pilgrimage (c. 1324) remains one of the most celebrated moments in African history.
-
-### Pre-Colonial Kingdoms and Cultures
-In West, Central, and Southern Africa, dynamic societies such as the Kingdom of Benin, the Oyo Empire, and Great Zimbabwe exemplified advanced governance, art, and culture.
 
 ## 1619–1865: The Era of the Transatlantic Slave Trade and Enslavement
 
