@@ -6,7 +6,7 @@
 Some interpretations of the collosal Olmec heads suggest African features, which would suggest there is evidence of pre-columbian contact.
 
 ![Olmec Head Front](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/olmec_head_front.png)
-![Olmec Head Back](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/olmec_head_back.png)
+![Olmec Head Back](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/olmec_head_back2.png)
 
 
 ### Classical and Medieval Empires
