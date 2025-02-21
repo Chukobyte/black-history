@@ -1,6 +1,4 @@
-# 1619–1865: The Era of the Transatlantic Slave Trade and Enslavement
-
-## Slavery in Motion
+## The Era of the Transatlantic Slave Trade and Enslavement
 
 ### 1619
 Arrival in British North America: The first recorded arrival of enslaved Africans in Jamestown, Virginia, marks the beginning of a long and painful chapter in American history.

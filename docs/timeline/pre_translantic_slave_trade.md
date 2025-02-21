@@ -1,5 +1,3 @@
-# Pre-Translantic Slave Trade
-
 ## Pre-Columbian (Before 1492): The Deep Roots of Black Civilization
 
 ### Olmec Civilization (c. 1500 BCE – 400 BCE)

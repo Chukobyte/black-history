@@ -1,6 +1,4 @@
-# 1940–1970: The Civil Rights Movement and the Road to Equality
-
-## Civil Rights
+## The Civil Rights Movement and the Road to Equality
 
 ### Judicial and Social Milestones
 1954: Brown v. Board of Education rules that segregated schools are inherently unequal, setting a legal precedent for desegregation.

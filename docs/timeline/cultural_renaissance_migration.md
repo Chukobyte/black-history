@@ -1,6 +1,4 @@
-# 1900–1940: Cultural Renaissance and the Great Migration
-
-## Culture
+## Cultural Renaissance and the Great Migration
 
 ### Early 20th Century Developments
 1909: Founding of the National Association for the Advancement of Colored People (NAACP) becomes a cornerstone for legal and social challenges against racial injustice.
