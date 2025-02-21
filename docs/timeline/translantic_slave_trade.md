@@ -3,6 +3,8 @@
 ### Arrival of the First Recorded Slave (1619)
 1619 is the first recorded arrival of enslaved Africans in Jamestown Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both slaves and freemen existed before 1619.
 
+![Jamestown Slaves](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/jamestown_slaves.png)
+
 ### Expansion of the Slave Trade (17th – 18th Centuries)
 Enslaved Africans were forcibly transported across the Atlantic, profoundly shaping the economies, cultures, and social structures of the Americas.
 
