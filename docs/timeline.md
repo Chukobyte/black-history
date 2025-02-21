@@ -1,11 +1,13 @@
-# Timeline
+# America Timeline
 
-## Pre-1619: The Deep Roots of Black Civilization
+## Pre-Columbian (Before 1492): The Deep Roots of Black Civilization
 
-### Ancient African Civilizations (c. 3000 BCE and earlier)
-Ancient Egypt: One of the world’s first advanced civilizations, with remarkable achievements in architecture, art, and science.
+### Olmec Civilization (c. 1500 BCE – 400 BCE)
+Some interpretations of the collosal Olmec heads suggest African features, which would suggest there is evidence of pre-columbian contact.
 
-Kingdom of Kush: Flourished in Nubia (modern-day Sudan), known for its powerful queens and its influence over Egypt.
+![Olmec Head Front](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/olmec_head_front.png)
+![Olmec Head Back](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/olmec_head_back.png)
+
 
 ### Classical and Medieval Empires
 Kingdom of Aksum (c. 100–940 CE): An influential empire in present-day Ethiopia and Eritrea, noted for its early adoption of Christianity.
@@ -20,7 +22,7 @@ In West, Central, and Southern Africa, dynamic societies such as the Kingdom of 
 ### 1619
 Arrival in British North America: The first recorded arrival of enslaved Africans in Jamestown, Virginia, marks the beginning of a long and painful chapter in American history.
 
-### 17th–18th Centuries:
+### 17th – 18th Centuries:
 Expansion of the Slave Trade: Enslaved Africans were forcibly transported across the Atlantic, profoundly shaping the economies, cultures, and social structures of the Americas.
 
 ### Late 1700s: Revolutionary Movements and Uprisings
