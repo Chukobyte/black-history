@@ -10,8 +10,23 @@ Some interpretations of the colossal Olmec heads suggest African features, which
 *Back of the Head*
 
 ### Abu Bakr II of Mali (14th Century)
-
 Supposedly Abu Bakr II abdicated the Malian throne to embark on an expedition.  He took 2,000 ships which included sailors, builders, craftsmen, and plenty supplies.  He never returned and Mansu Musa, who was the previous richest man of the world, claimed the thrown.  If this story is true, they could have possibly had contact with America before Colombus.
+
+### Quotes About Indigenous Black People
+
+#### Books
+
+##### Aboriginal Race of America (1842)
+On page 5, about the physical characteristics of the aboriginal inhabitants:
+
+
+*It cannot be questioned that physical diversities do occur, equally singular and inexplicable, as seen in different shades of color, varying from a fair tint to a complexion almost <u>black</u>; and this too under circumstances in which climate can have little or no influence.  So also in reference to stature, the differences are remarkable in entire tribes which, moreover, are geographically proximate to each other. These facts, however, are mere exceptions to a general rule, and <u>do not alter the peculiar physiognomy of the Indian, which is as undeviatingly characteristic as that of the Negro</u>; for whether we see him in the athletic Charib or the stunted Chayma, in the dark Californian or the fair Borroa, <u>he is an Indian still, and cannot be mistaken for a being of any other race.</u>*
+
+##### The American Nations; Or Outlines of a National History; Of the Ancient and Modern Nations of North and South America Vol 1 (1836)
+
+On page 57:
+
+*American anthropography will teach that there were men of all sizes, features and complexions, in this hemisphere before 1492: notwithstanding the false assertions of many writers, who take one nation for the whole American group.  The Uskihs, the Puruays, the Parias, the Chons, &c. were as white as the Spaniards, 50 such tribes were found in South America; while many tribes of Choco, the Manabis, the Yururas, &c., <u>were as black as the negroes.</u>  All the other shades of brown, tawny, and coppery, were scattered everywhere.  There was not a single red man in America, unless painted as such.  Some tribes had scanty beards as the Tartars, Chinese, Berbers, &c., other bushy beards.  The Tinguis or Patagons were 7 or 8 feet high, and the Guaymas only 4 or 5 feet.*
 
 ## Columbus "Discovers" America (1492-1493)
 
