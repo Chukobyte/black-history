@@ -35,5 +35,13 @@ Pedro Alonso Niño, who was a Moor, was a navigator and pilot of one of Columbus
 
 ![Pedro Alonso Niño](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/pedro_alonso_nino.png)
 
+## Post Colombus
+
+### Spanish Colony Rebellion
+
+According to Linda Heywood, co-author of the book "Central Africans, Atlantic Creoles, and the Foundation of the Americas, 1585–1660", commented on a history.com [article](https://www.history.com/news/american-slavery-before-jamestown-1619) about Africans in America:
+
+*“There were significant numbers who were brought in as early as 1526,” says Heywood. That year, some of these enslaved Africans became part of a Spanish expedition to establish an outpost in what is now South Carolina. They rebelled, preventing the Spanish from founding the colony.*
+
 <!-- ### Early European and African Contact (1400 – 1500) -->
 <!-- Other Moorish explorers from North Africa may have joined other Spanish and Portuguese expeditions. -->

@@ -16,6 +16,8 @@ Haitian Revolution (1791–1804): The first successful slave revolt led to Haiti
 
 1808: The United States enacts legislation to end the importation of slaves, setting the stage for further resistance and eventual emancipation.
 
+1831: Nat Turner Rebellion.
+
 ### The American Civil War and the End of Slavery (1861–1865)
 1863: President Lincoln issues the Emancipation Proclamation, redefining the war as a fight for freedom.
 
