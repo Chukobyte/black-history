@@ -10,7 +10,7 @@ plugins:
   - mermaid2
 
 theme:
-  name: material
+  name: windmill-dark
 
 markdown_extensions:
   - pymdownx.highlight
