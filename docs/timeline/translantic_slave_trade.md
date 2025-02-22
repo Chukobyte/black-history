@@ -4,7 +4,20 @@
 1619 is the first recorded arrival of enslaved Africans in Jamestown Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both slaves and freemen existed in America before 1619.
 
 ![Jamestown Slaves](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/jamestown_slaves.png)
-According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 million africans were forcibly taken and traded for roughly 350 years.  About 10 to 11 million survived the passages.  Of the total that survived, approximately 350,000 to 450,000 (roughly 3%) made it to North America.
+According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 million africans were forcibly taken and traded for roughly 350 years.  About 10 to 11 million survived the passages.  Of the total that survived, approximately 300,000 (roughly 3%) made it to North America.  Below is a chart of slaves that arrived in America:
+
+|    Period   |  Count  |
+| ----------- | ------- |
+| 1626 - 1650 | 824     |
+| 1676 - 1700 | 3,327   |
+| 1701 - 1725 | 3,277   |
+| 1726 - 1750 | 34,004  |
+| 1751 - 1775 | 84,580  |
+| 1776 - 1800 | 67,443  |
+| 1826 - 1850 | 1,850   |
+| 1851 - 1875 | 476     |
+| All         | 305,326 |
+
 
 ### Anthony Johnson - First Black Slave Owner
 The first recorded black slave owner was Anthony Johnson.  He arrived in virgin around the 1920s as an indentured servant, which is a person who agrees to work for a number of years in exchange for providing travel to America.
