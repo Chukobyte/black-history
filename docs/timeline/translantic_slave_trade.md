@@ -27,7 +27,8 @@ He obtained his freedom by 1651 and became a landowner, which opened him up to p
 ### The Revolutionary War (1776)
 There are some historians who estimate about 5000 to 8000 black men served in the Continental Army and other militias during the war.  Estimates of about 3,000 to 5,000 faught on the side of the British as they were promised freedom via [Lord Dunmore’s Proclamation](https://en.wikipedia.org/wiki/Dunmore%27s_Proclamation).
 
-Crispus Attucks is believed to be the first casualty.
+#### Crispus Attucks
+Crispus Attucks is believed to be the first casualty of the American Revolutionary War.
 
 ![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks2.png)
 
