@@ -4,9 +4,12 @@
 1619 is the first recorded arrival of enslaved Africans in Jamestown Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both slaves and freemen existed in America before 1619.
 
 ![Jamestown Slaves](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/jamestown_slaves.png)
+According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 million africans were forcibly taken and traded for roughly 350 years.  About 10 to 11 million survived the passages.  Of the total that survived, approximately 350,000 to 450,000 (roughly 3%) made it to North America.
 
-### Expansion of the Slave Trade (17th – 18th Centuries)
-Enslaved Africans were forcibly transported across the Atlantic, profoundly shaping the economies, cultures, and social structures of the Americas.
+### Anthony Johnson - First Black Slave Owner
+The first recorded black slave owner was Anthony Johnson.  He arrived in virgin around the 1920s as an indentured servant, which is a person who agrees to work for a number of years in exchange for providing travel to America.
+
+He obtained his freedom by 1951 and became a landowner, which opened him up to participate socially and economically (slaves were excluded from for obvious reasons).  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
 
 ### Revolutionary Movements and Uprisings (Late 1700s)
 American Revolution: While the fight for independence was underway, debates about freedom and rights set the stage for future conflicts over slavery.
