@@ -24,18 +24,16 @@ The first recorded black slave owner was Anthony Johnson.  He arrived in Virgini
 
 He obtained his freedom by 1651 and became a landowner, which opened him up to participate socially and economically (slaves were excluded from for obvious reasons).  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
 
-### The Revolutionary War (1776)
-There are some historians who estimate about 5000 to 8000 black men served in the Continental Army and other militias during the war.  Estimates of about 3,000 to 5,000 faught on the side of the British as they were promised freedom via [Lord Dunmore’s Proclamation](https://en.wikipedia.org/wiki/Dunmore%27s_Proclamation).
-
-#### Crispus Attucks
-Crispus Attucks is believed to be the first casualty of the American Revolutionary War.
+### Crispus Attucks and the Boston Massacre (1770)
+Crispus Attucks was sailor and dockworker living in Boston during the Boston Massacre, a confrontation between British soldiers and American colonist, which happened on March 5, 1770.  It is widely believed that Crispus, who was among the protesters, was the first person shot by the British which would make him the first casualty of the American Revolutionary War.
 
 ![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks3.png)
 
-### Revolutionary Movements and Uprisings (Late 1700s)
-American Revolution: While the fight for independence was underway, debates about freedom and rights set the stage for future conflicts over slavery.
+### The Revolutionary War (1776)
+There are some historians who estimate about 5000 to 8000 black men served in the Continental Army and other militias during the war.  Estimates of about 3,000 to 5,000 fought on the side of the British as they were promised freedom via [Lord Dunmore’s Proclamation](https://en.wikipedia.org/wiki/Dunmore%27s_Proclamation).
 
-Haitian Revolution (1791–1804): The first successful slave revolt led to Haiti’s independence, challenging the global status quo on slavery.
+### Haitian Revolution (1791–1804)
+The first successful slave revolt led to Haiti’s independence, challenging the global status quo on slavery.
 
 ### Shifts in Abolitionist Movements (Early 1800s)
 1807: Britain abolishes the transatlantic slave trade.
