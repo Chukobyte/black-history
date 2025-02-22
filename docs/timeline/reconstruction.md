@@ -7,21 +7,21 @@ Thomas Dartmouth "Daddy" Rice was an entertainer who coined the stage character 
 
 ![Jim Crow Poster](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/real_jim_crow.png)
 
-These are the words from the song Jim Crow:
+"Jim Crow" became a racial slur towards black people which made it a suitable name for the laws that would come later.  These are the words from the song Jim Crow:
 
-***"Come listen all you galls and boys,***
-
-***I'm going to sing a little song,***
-
-***My name is Jim Crow.***
-
-***Weel about and turn about and do jis so,***
-
-***Eb'ry time I weel about I jump Jim Crow."***
+> *"Come listen all you galls and boys,*
+>
+> *I'm going to sing a little song,*
+>
+> *My name is Jim Crow.*
+>
+> *Weel about and turn about and do jis so,*
+>
+> *Eb'ry time I weel about I jump Jim Crow."*
 
 #### Laws
 
-The laws of Jim crow were a combination of state and local statues that enforced segregation and discrimination against black people.
+The laws of Jim Crow were a combination of state and local statues that enforced segregation and discrimination against black people.
 
 There were voting restrictions such as poll taxes, literacy tests (when there were previously anti-literacy laws which made it illegal for black people to read or write), and grandfather clauses which allowed those who could vote before a certain date (usually before the civil war) to skip out on literacy tests and poll taxes, which excluded majority of black people.
 
