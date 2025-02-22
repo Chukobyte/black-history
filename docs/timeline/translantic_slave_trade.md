@@ -30,7 +30,7 @@ There are some historians who estimate about 5000 to 8000 black men served in th
 #### Crispus Attucks
 Crispus Attucks is believed to be the first casualty of the American Revolutionary War.
 
-![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks2.png)
+![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks3.png)
 
 ### Revolutionary Movements and Uprisings (Late 1700s)
 American Revolution: While the fight for independence was underway, debates about freedom and rights set the stage for future conflicts over slavery.
