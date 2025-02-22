@@ -4,7 +4,7 @@
 1619 is the first recorded arrival of enslaved Africans in Jamestown Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both slaves and freemen existed in America before 1619.
 
 ![Jamestown Slaves](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/jamestown_slaves.png)
-According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 million africans were forcibly taken and traded for roughly 350 years.  About 10 to 11 million survived the passages.  Of the total that survived, approximately 300,000 (roughly 3%) made it to North America.  Below is a chart of slaves that arrived in America:
+According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 million Africans were forcibly taken and traded for roughly 350 years.  About 10 to 11 million survived the passages.  Of the total that survived, approximately 300,000 (roughly 3%) made it to North America.  Below is a chart of slaves that arrived in America:
 
 |    Period   |  Count  |
 | ----------- | ------- |
@@ -20,9 +20,16 @@ According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 milli
 
 
 ### Anthony Johnson - First Black Slave Owner
-The first recorded black slave owner was Anthony Johnson.  He arrived in virgin around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for providing travel to America.
+The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for providing travel to America.
 
 He obtained his freedom by 1651 and became a landowner, which opened him up to participate socially and economically (slaves were excluded from for obvious reasons).  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
+
+### The Revolutionary War (1776)
+There are some historians who estimate about 5000 to 8000 black men served in the Continental Army and other militias during the war.  Estimates of about 3,000 to 5,000 faught on the side of the British as they were promised freedom via [Lord Dunmore’s Proclamation](https://en.wikipedia.org/wiki/Dunmore%27s_Proclamation).
+
+Crispus Attucks is believed to be the first casualty
+
+![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks.png)
 
 ### Revolutionary Movements and Uprisings (Late 1700s)
 American Revolution: While the fight for independence was underway, debates about freedom and rights set the stage for future conflicts over slavery.
