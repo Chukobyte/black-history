@@ -20,12 +20,12 @@ According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 milli
 
 
 ### Anthony Johnson - First Black Slave Owner
-The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for providing travel to America.
+The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for a paid voyage to America.
 
 He obtained his freedom by 1651 and became a landowner, which opened him up to participate socially and economically (slaves were excluded from for obvious reasons).  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
 
-### Crispus Attucks and the Boston Massacre (1770)
-Crispus Attucks was sailor and dockworker living in Boston during the Boston Massacre, a confrontation between British soldiers and American colonist, which happened on March 5, 1770.  It is widely believed that Crispus, who was among the protesters, was the first person shot by the British which would make him the first casualty of the American Revolutionary War.
+### Crispus Attucks and the Boston Massacre (March 5, 1770)
+Crispus Attucks was sailor and dockworker living in Boston during the Boston Massacre, which was a confrontation between British soldiers and American colonist.  It is widely believed that Crispus, who was among the protesters, was the first person shot by the British which would make him the first casualty of the American Revolutionary War.
 
 ![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks3.png)
 
@@ -42,7 +42,11 @@ The first successful slave revolt led to Haiti’s independence, challenging the
 
 1831: Nat Turner Rebellion.
 
-### The American Civil War and the End of Slavery (1861–1865)
-1863: President Lincoln issues the Emancipation Proclamation, redefining the war as a fight for freedom.
+### The American Civil War (1861–1865)
+About 180,000 Black Americans fought for the union during the civil war.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
 
-1865: The Civil War ends, and with the ratification of the 13th Amendment, slavery is abolished throughout the United States.
+#### Emancipation Proclamation (1863)
+President Lincoln issues the Emancipation Proclamation, which declared all slaves free in the rebellious states.
+
+#### End of the War and the 13th Amendment (1865)
+The Civil War ends, and with the ratification of the 13th Amendment, slavery is abolished throughout the United States.

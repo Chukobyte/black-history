@@ -19,7 +19,6 @@ Supposedly Abu Bakr II abdicated the Malian throne to embark on an expedition to
 ##### Aboriginal Race of America (1842)
 On page 5, about the physical characteristics of the aboriginal inhabitants:
 
-
 *It cannot be questioned that physical diversities do occur, equally singular and inexplicable, as seen in different shades of color, varying from a fair tint to a complexion almost <u>black</u>; and this too under circumstances in which climate can have little or no influence.  So also in reference to stature, the differences are remarkable in entire tribes which, moreover, are geographically proximate to each other. These facts, however, are mere exceptions to a general rule, and <u>do not alter the peculiar physiognomy of the Indian, which is as undeviatingly characteristic as that of the Negro</u>; for whether we see him in the athletic Charib or the stunted Chayma, in the dark Californian or the fair Borroa, <u>he is an Indian still, and cannot be mistaken for a being of any other race.</u>*
 
 ##### The American Nations; Or Outlines of a National History; Of the Ancient and Modern Nations of North and South America Vol 1 (1836)
