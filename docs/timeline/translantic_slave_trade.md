@@ -22,10 +22,10 @@ According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 milli
 ### Anthony Johnson - First Black Slave Owner
 The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for a paid voyage to America.
 
-He obtained his freedom by 1651 and became a landowner, which opened him up to participate socially and economically (slaves were excluded from for obvious reasons).  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
+He obtained his freedom by 1651 and became a landowner, opening him up to participate socially and economically.  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
 
 ### Crispus Attucks and the Boston Massacre (March 5, 1770)
-Crispus Attucks was sailor and dockworker living in Boston during the Boston Massacre, which was a confrontation between British soldiers and American colonist.  It is widely believed that Crispus, who was among the protesters, was the first person shot by the British which would make him the first casualty of the American Revolutionary War.
+Crispus Attucks was a sailor and dockworker living in Boston during a confrontation between British soldiers and American colonist, known as the Boston Massacre.  It is widely believed that Crispus, who was among the protesters, was the first person shot by the British making him the first casualty of the American Revolutionary War.
 
 ![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks3.png)
 
