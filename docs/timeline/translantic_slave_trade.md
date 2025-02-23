@@ -57,6 +57,9 @@ Following Britain's footsteps a year prior, The United States passes legislation
 ### The American Civil War (1861–1865)
 About 180,000 Black Americans fought for the union during the civil war.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
 
+##### Devil's Punchbowl - Slave Concentration Camp
+The Devil's Punchbowl was an internment camp created by the Union army in Natchez, Mississippi, that held freed slaves.  Many slaves died of starvation and disease, with some estimates around 20,000 in one year.
+
 ##### Emancipation Proclamation (1863)
 President Lincoln issues the Emancipation Proclamation, which declared all slaves free in the confederate states.  The slaves in states and territories occupied by the Union weren't freed.
 
