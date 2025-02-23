@@ -20,6 +20,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Timeline:
+    - Introduction: timeline/introduction.md
     - Pre-Translantic Slave Trade (Before 1619): timeline/pre_translantic_slave_trade.md
     - Translantic Slave Trade (1619–1865): timeline/translantic_slave_trade.md
     - Reconstruction (1865–1900): timeline/reconstruction.md
