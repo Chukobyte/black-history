@@ -1,5 +1,10 @@
 ## Reconstruction and the Struggle for Civil Rights
 
+### Reparations of 40 Acres and a Mule (1865)
+Special Field Order No. 15 was issues on January 1865 by Union General William Tecumseh Sherman.  Land was set aside in coastal areas primarily in South Carolina, Florida, and Georgia for the recently freed slaves.  Each family was promised 40 acres of land and some provisions provided a mule to help with farming.
+
+After the Assassination of Abraham Lincoln, Andrew Johnson became president and rolled back the changes and gave much of the land back to its confederate owners.  With no where to turn, many blacks entered shared cropping and tenant farming systems while others migrated to other areas.
+
 ### Jim Crow (1870s)
 
 #### Backstory
@@ -26,10 +31,6 @@ The laws of Jim Crow were a combination of state and local statues that enforced
 There were voting restrictions such as poll taxes, literacy tests (when there were previously anti-literacy laws which made it illegal for black people to read or write), and grandfather clauses which allowed those who could vote before a certain date (usually before the civil war) to skip out on literacy tests and poll taxes, which excluded majority of black people.
 
 Redlining and housing discrimination also prevented black people from obtaining loans for homes and moving to better neighborhoods.
-
-
-### Reconstruction Era (1865–1877)
-A period of significant yet short-lived gains in Black political participation, education, and civil rights, as Black Americans began to assert their rights in a post-slavery society.
 
 ### Institutionalization of Segregation (1896)
 Plessy v. Ferguson codified the "separate but equal" doctrine established by the US Supreme Court, but in reality the facilities and services were anything but equal for blacks.
