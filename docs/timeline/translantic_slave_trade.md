@@ -32,21 +32,33 @@ Crispus Attucks was a sailor and dockworker living in Boston during a confrontat
 ### The Revolutionary War (1776)
 There are some historians who estimate about 5000 to 8000 black men served in the Continental Army and other militias during the war.  Estimates of about 3,000 to 5,000 fought on the side of the British as they were promised freedom via [Lord Dunmore’s Proclamation](https://en.wikipedia.org/wiki/Dunmore%27s_Proclamation).
 
-### Haitian Revolution (1791–1804)
+### Slave Rebellions (1739-1831)
+
+##### Stono Rebellion (1739)
+One of the largest rebellions in British North America, 25 colonist were killed and between 35 to 50 slaves were killed before it was eventually suppressed.
+
+##### Gabriel's Rebellion (1800)
+Gabriel, an enslaved blacksmith, planned are large scale slave rebellion.  The plan was eventually found out before it could happen and Gabriel, including 25 of his followers, were hanged.
+
+##### Haitian Revolution (1791–1804)
 The first successful slave revolt led to Haiti’s independence, challenging the global status quo on slavery.
 
-### Shifts in Abolitionist Movements (Early 1800s)
-1807: Britain abolishes the transatlantic slave trade.
+##### Nat Turner Rebellion (1831)
+Nat Turner, who was an enslaved preacher in Southampton Country, Virginia, led a rebellion that lasted for about 2 days.  Some estimate that 50 - 60 white people were killed and 100 - 200 black people (some not involved) while the rebellion lasted.  Nat turner and those involved were all eventually caught and executed.  More restrictions on education and literacy were placed on black people as well as other harsher laws and measures.
 
-1808: The United States enacts legislation to end the importation of slaves, setting the stage for further resistance and eventual emancipation.
+### Abolitionist Milestones and Legal Shifts (Early 1800s)
 
-1831: Nat Turner Rebellion.
+##### Britain Abolishes the Transatlantic Slave Trade (1807)
+The British parliament passed the Abolition of the Slave Trade Act which made it illegal to engage in the transatlantic slave trade.  This decision was driven by abolitionist groups such as the Quakers.  Slavery wasn't abolished for British colonies until 1834.
+
+##### The United States Abolishes Importing Slaves (1808)
+Following Britain's footsteps a year prior, The United States passes legislation to end the importation of slaves.  Slavery still continued domestically however and slaves were still smuggled into the US.
 
 ### The American Civil War (1861–1865)
 About 180,000 Black Americans fought for the union during the civil war.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
 
-#### Emancipation Proclamation (1863)
-President Lincoln issues the Emancipation Proclamation, which declared all slaves free in the rebellious states.
+##### Emancipation Proclamation (1863)
+President Lincoln issues the Emancipation Proclamation, which declared all slaves free in the confederate states.  The slaves in states and territories occupied by the Union weren't freed.
 
-#### End of the War and the 13th Amendment (1865)
+##### End of the War and the 13th Amendment (1865)
 The Civil War ends, and with the ratification of the 13th Amendment, slavery is abolished throughout the United States.
