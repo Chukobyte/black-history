@@ -54,6 +54,9 @@ The British parliament passed the Abolition of the Slave Trade Act which made it
 ##### The United States Abolishes Importing Slaves (1808)
 Following Britain's footsteps a year prior, The United States passes legislation to end the importation of slaves.  Slavery still continued domestically however and slaves were still smuggled into the US.
 
+### The Trail of Tears (1830 - 1850)
+The Indian Removal Act of 1930 forced the removal of Native American tribes such as the Cherokee, Creek, Choctaw, Chickasaw, and Seminole.  They were forced to move from their ancestral homelands in south eastern United States to present day Oklahoma.  Black people were part of this, for example the Black Seminoles, as some were living within the tribes as free, mixed heritage, and enslaved.
+
 ### The American Civil War (1861–1865)
 About 180,000 Black Americans fought for the union during the civil war.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
 
@@ -65,3 +68,10 @@ President Lincoln issues the Emancipation Proclamation, which declared all slave
 
 ##### End of the War and the 13th Amendment (1865)
 The Civil War ends, and with the ratification of the 13th Amendment, slavery is abolished throughout the United States.
+
+### Post Civil War Military Conflict (1865 - 1900s)
+After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.  This is especially true in the borders between Texas and Mexico.
+
+##### John Horse
+
+![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
