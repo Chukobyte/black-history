@@ -1,6 +1,6 @@
 ## Reconstruction and the Struggle for Civil Rights
 
-### Post Civil War Military Conflict (1865 - 1900s)
+### Post Civil War Military Conflicts (1865 - 1900s)
 After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.  This is especially true on the borders between Texas and Mexico.
 
 ##### John Horse

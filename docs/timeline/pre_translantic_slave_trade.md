@@ -1,7 +1,7 @@
 ## Pre-Columbian (Before 1492): The Deep Roots of Black Civilization
 
 ### Olmec Civilization (c. 1500 BCE – 400 BCE)
-The Olmecs civilization existed along the gulf coast of what Mexico.  They are known as the "mother culture" of Mesoamerica and they predate the Maya.  They created sophisticated works of art and architecture.  An example of this are the colossal Olmec heads, which some researchers believe suggests African features.
+The Olmecs civilization existed along the gulf coast of present day Mexico.  They are known as the "mother culture" of Mesoamerica and they predate the Maya.  They created sophisticated works of art and architecture.  An example of this are the colossal Olmec heads, which some researchers believe suggests African features.
 
 ![Olmec Head Front](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/olmec_head_front.png)
 
@@ -10,7 +10,9 @@ The Olmecs civilization existed along the gulf coast of what Mexico.  They are k
 *Back of the Head*
 
 ### Abu Bakr II of Mali (14th Century)
-Supposedly Abu Bakr II abdicated the Malian throne to embark on an expedition to cross the Atlantic Ocean.  With 2,000 ships which included sailors, builders, craftsmen, and plenty supplies, he set sail.  Abu Bakr never returned and Mansu Musa, who was previously the richest man, claimed the thrown.  If this story is true, they could have possibly had contact with America before Colombus.
+According to the Arab historian Al-Umari, Abu Bakr II, the ruler of Mali empire, launched two expeditions to cross the Atlantic Ocean.  The first expedition he prepared 200 ships with enough supplies to last a few years.  He instructed his admiral to sail to other side of the ocean and to not return until either reaching the far side of the ocean or exhausting the supplies.  Only one ship returned, with its captain reporting that the remaining ships were swept up in a powerful current.
+
+Determined to see what's on the other side of the ocean, Abu Bakr embarked with 2,000 ships which included sailors, builders, craftsmen, and plenty of supplies.  In his absense, Mansu Musa---one of the richest men in history---was put in charge of the Malian throne.  Abu Bakr never returned and it is not known what happened on his voyage.  Some researchers, including historian Ivan Van Sertima, suggest that it's possible his fleet reached the Carribean, Central or South America.
 
 ### Quotes About Indigenous Black People
 
@@ -28,6 +30,9 @@ On page 57:
 *American anthropography will teach that there were men of all sizes, features and complexions, in this hemisphere before 1492: notwithstanding the false assertions of many writers, who take one nation for the whole American group.  The Uskihs, the Puruays, the Parias, the Chons, &c. were as white as the Spaniards, 50 such tribes were found in South America; while many tribes of Choco, the Manabis, the Yururas, &c., <u>were as black as the negroes.</u>  All the other shades of brown, tawny, and coppery, were scattered everywhere.  There was not a single red man in America, unless painted as such.  Some tribes had scanty beards as the Tartars, Chinese, Berbers, &c., other bushy beards.  The Tinguis or Patagons were 7 or 8 feet high, and the Guaymas only 4 or 5 feet.*
 
 ## Columbus "Discovers" America (1492-1493)
+
+### Primary Accounts and Observations
+According to accounts by Christopher Columbus and Bartolome de las Casas an abundance of West African spears, gold, and many other exotic artifacts existed in the Americas.
 
 ### Pedro Alonso Niño (1492)
 Pedro Alonso Niño, who was a Moor, was a navigator and pilot of one of Columbus' ships.

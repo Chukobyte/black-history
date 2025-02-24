@@ -25,7 +25,7 @@ The first recorded black slave owner was Anthony Johnson.  He arrived in Virgini
 He obtained his freedom by 1651 and became a landowner, opening him up to participate socially and economically.  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
 
 ### Crispus Attucks and the Boston Massacre (March 5, 1770)
-Crispus Attucks was a sailor and dockworker living in Boston during a confrontation between British soldiers and American colonist, known as the Boston Massacre.  It is widely believed that Crispus, who was among the protesters, was the first person shot by the British making him the first casualty of the American Revolutionary War.
+Crispus Attucks was a sailor and dockworker who became a symbol of resistance in Boston during a confrontation between British soldiers and American colonist.  The boiling tensions became fatal and Attucks and other protesters were fatally shot by the British.  It is widely accepted that Crispus was the first casualty of the American Revolutionary War.
 
 ![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks3.png)
 
@@ -38,7 +38,7 @@ There are some historians who estimate about 5000 to 8000 black men served in th
 One of the largest rebellions in British North America, 25 colonist were killed and between 35 to 50 slaves were killed before it was eventually suppressed.
 
 ##### Gabriel's Rebellion (1800)
-Gabriel, an enslaved blacksmith, planned are large scale slave rebellion.  The plan was eventually found out before it could happen and Gabriel, including 25 of his followers, were hanged.
+Gabriel, an enslaved blacksmith, planned a large scale slave rebellion.  The plan was eventually found out before it was executed and Gabriel, including 25 of his followers, were hanged.
 
 ##### Haitian Revolution (1791–1804)
 The first successful slave revolt led to Haiti’s independence, challenging the global status quo on slavery.
@@ -55,10 +55,10 @@ The British parliament passed the Abolition of the Slave Trade Act which made it
 Following Britain's footsteps a year prior, The United States passes legislation to end the importation of slaves.  Slavery still continued domestically however and slaves were still smuggled into the US.
 
 ### The Underground Railroad (1830-1865)
-A network of secret passages and safe houses that helped many black slaves escape to free areas such as Canada.
+A network of secret passages and safe houses that helped many black slaves escape to free states such as Canada.
 
 ##### Harriet Tubman
-An abolist and social activist who went on about 13 missions to save around 70 slaves including family and friends using the Underground Railroad.  During the civil war she served the Union army first as a cook and nurse, and later as a spy and a scout.  She is credited by some researchers as the first woman to lead an armed military operation in the US during the raid of Combahee Ferry which liberated approximately 700 slaves.
+An abolitionist  and social activist who went on about 13 missions to save around 70 slaves including family and friends using the Underground Railroad.  During the civil war she served the Union army first as a cook and nurse, and later as a spy and a scout.  She is credited by some researchers as the first woman to lead an armed military operation in the US during the raid of Combahee Ferry which liberated approximately 700 slaves.
 
 ![Harriet Tubman](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/harriet_tubman2.png)
 
