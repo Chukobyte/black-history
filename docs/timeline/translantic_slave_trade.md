@@ -18,6 +18,8 @@ According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 milli
 | 1851 - 1875 | 476     |
 | All         | 305,326 |
 
+Historian David Richardson has suggested that roughly 70–80% of enslaved Africans were taken as a result of raids, warfare, or other similar violent conflicts and sold as prisoners of war.  Some researchers estimate about 10-20% enslaved Africans were kidnapped.
+
 
 ### Anthony Johnson - First Black Slave Owner
 The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for a paid voyage to America.
