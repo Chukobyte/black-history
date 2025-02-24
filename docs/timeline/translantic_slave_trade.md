@@ -76,11 +76,3 @@ President Lincoln issues the Emancipation Proclamation, which declared all slave
 
 ##### End of the War and the 13th Amendment (1865)
 The Civil War ends, and with the ratification of the 13th Amendment, slavery is abolished throughout the United States.
-
-### Post Civil War Military Conflict (1865 - 1900s)
-After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.  This is especially true in the borders between Texas and Mexico.
-
-##### John Horse
-John Horse was a lengendary Seminole warrior and leader who played an important role in resisting slavery and leading others to freedom.  The Seminole tribe have already dealt with force removal from Florida by this time and fled to Mexico where they established communities and continued to resist the US army.
-
-![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)

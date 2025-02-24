@@ -1,5 +1,13 @@
 ## Reconstruction and the Struggle for Civil Rights
 
+### Post Civil War Military Conflict (1865 - 1900s)
+After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.  This is especially true on the borders between Texas and Mexico.
+
+##### John Horse
+John Horse was a legendary Seminole warrior and leader who played an important role in resisting slavery and leading others to freedom.  The Seminole tribe have already dealt with force removal from Florida by this time and fled to Mexico where they established communities and continued to resist the US army.
+
+![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
+
 ### Reparations of 40 Acres and a Mule (1865)
 Special Field Order No. 15 was issues on January 1865 by Union General William Tecumseh Sherman.  Land was set aside in coastal areas primarily in South Carolina, Florida, and Georgia for the recently freed slaves.  Each family was promised 40 acres of land and some provisions provided a mule to help with farming.
 
