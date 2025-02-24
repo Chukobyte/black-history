@@ -77,4 +77,4 @@ The Devil's Punchbowl was an internment camp created by the Union army in Natche
 President Lincoln issues the Emancipation Proclamation, which declared all slaves free in the confederate states.  The slaves in states and territories occupied by the Union weren't freed.
 
 ##### End of the War and the 13th Amendment (1865)
-The Civil War ends, and with the ratification of the 13th Amendment, slavery is abolished throughout the United States.
+The Civil War ends, and with the ratification of the 13th Amendment, slavery is abolished throughout the United States.  There are some studies that in 1960 the estimated value of all the slaves in the US was approximately 3 billion (90 billion today) which was more that the estimated gold reserves which was roughly 200-300 million.
