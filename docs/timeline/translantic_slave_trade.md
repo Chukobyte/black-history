@@ -54,6 +54,15 @@ The British parliament passed the Abolition of the Slave Trade Act which made it
 ##### The United States Abolishes Importing Slaves (1808)
 Following Britain's footsteps a year prior, The United States passes legislation to end the importation of slaves.  Slavery still continued domestically however and slaves were still smuggled into the US.
 
+### The Underground Railroad (1830-1965)
+A network of secret passages and safe houses that helped many black slaves escape to free areas such as Canada.
+
+##### Harriet Tubman
+An abolist and social activist who went on about 13 missions to save around 70 slaves including family and friends using the Underground Railroad.  During the civil war she served the Union army first as a cook and nurse, and later as a spy and a scout.  She is credited by some researchers as the first woman to lead an armed military operation in the US during the raid of Combahee Ferry which liberated approximately 700 slaves.
+
+![Harriet Tubman](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/harriet_tubman.png)
+
+
 ### The Trail of Tears (1830 - 1850)
 The Indian Removal Act of 1930 forced the removal of Native American tribes such as the Cherokee, Creek, Choctaw, Chickasaw, and Seminole.  They were forced to move from their ancestral homelands in south eastern United States to present day Oklahoma.  Black people were part of this, for example the Black Seminoles, as some were living within the tribes as free, mixed heritage, and enslaved.
 
@@ -73,5 +82,6 @@ The Civil War ends, and with the ratification of the 13th Amendment, slavery is 
 After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.  This is especially true in the borders between Texas and Mexico.
 
 ##### John Horse
+John Horse was a lengendary Seminole warrior and leader who played an important role in resisting slavery and leading others to freedom.  The Seminole tribe have already dealt with force removal from Florida by this time and fled to Mexico where they established communities and continued to resist the US army.
 
 ![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
