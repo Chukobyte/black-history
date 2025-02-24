@@ -56,6 +56,9 @@ The British parliament passed the Abolition of the Slave Trade Act which made it
 ##### The United States Abolishes Importing Slaves (1808)
 Following Britain's footsteps a year prior, The United States passes legislation to end the importation of slaves.  Slavery still continued domestically however and slaves were still smuggled into the US.
 
+### Slave Breeding
+Slave owners systematically forced slaves to have children after importing slaves were illegal.
+
 ### The Underground Railroad (1830-1865)
 A network of secret passages and safe houses that helped many black slaves escape to free states such as Canada.
 
@@ -65,7 +68,9 @@ An abolitionist  and social activist who went on about 13 missions to save aroun
 ![Harriet Tubman](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/harriet_tubman2.png)
 
 ### The Trail of Tears (1830 - 1850)
-The Indian Removal Act of 1930 forced the removal of Native American tribes such as the Cherokee, Creek, Choctaw, Chickasaw, and Seminole.  They were forced to move from their ancestral homelands in south eastern United States to present day Oklahoma.  Black people were part of this, for example the Black Seminoles, as some were living within the tribes as free, mixed heritage, and enslaved.
+The Indian Removal Act of 1930 forced the removal of Native American tribes such as the Cherokee, Creek, Choctaw, Chickasaw, and Seminole.  About 60,000 Indians and 2,000 to 5,000 Blacks were forced to move from their ancestral homelands in south eastern United States to present day Oklahoma.
+
+<!-- Black people were part of this, for example the Black Seminoles, as some were living within the tribes as free, mixed heritage, and enslaved. -->
 
 ### The American Civil War (1861–1865)
 About 180,000 Black Americans fought for the union during the civil war.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
