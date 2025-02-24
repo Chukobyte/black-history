@@ -1,5 +1,10 @@
 ## Reconstruction and the Struggle for Civil Rights
 
+### Reparations: 40 Acres and a Mule (1865)
+Special Field Order No. 15 was issues on January 1865 by Union General William Tecumseh Sherman.  Land was set aside in coastal areas primarily in South Carolina, Florida, and Georgia for the recently freed slaves.  Each family was promised 40 acres of land and some provisions provided a mule to help with farming.
+
+After the Assassination of Abraham Lincoln, Andrew Johnson became president and rolled back the changes and gave much of the land back to its confederate owners.  With no where to turn, many blacks entered shared cropping and tenant farming systems while others migrated to other areas.
+
 ### Post Civil War Military Conflicts (1865 - 1900s)
 After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.  This is especially true on the borders between Texas and Mexico.
 
@@ -8,15 +13,10 @@ John Horse was a legendary Seminole warrior and leader who played an important r
 
 ![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
 
-### Reparations of 40 Acres and a Mule (1865)
-Special Field Order No. 15 was issues on January 1865 by Union General William Tecumseh Sherman.  Land was set aside in coastal areas primarily in South Carolina, Florida, and Georgia for the recently freed slaves.  Each family was promised 40 acres of land and some provisions provided a mule to help with farming.
-
-After the Assassination of Abraham Lincoln, Andrew Johnson became president and rolled back the changes and gave much of the land back to its confederate owners.  With no where to turn, many blacks entered shared cropping and tenant farming systems while others migrated to other areas.
-
 ### Jim Crow (1870s)
 
 #### Backstory
-Thomas Dartmouth "Daddy" Rice was an entertainer who coined the stage character "Jim Crow".  The character was allegedly inspired by a crippled black man, being able to dance in spite of his condition.  In 1828, Rice appeared on stage with his face covered in tar.
+Thomas Dartmouth "Daddy" Rice was an entertainer who coined the stage character "Jim Crow".  The character was allegedly inspired by a crippled black man who could dance in spite of his condition.  In 1828, Rice appeared on stage with his face covered in tar.
 
 ![Jim Crow Poster](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/real_jim_crow.png)
 
