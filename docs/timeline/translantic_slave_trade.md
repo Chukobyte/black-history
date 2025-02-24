@@ -62,7 +62,6 @@ An abolist and social activist who went on about 13 missions to save around 70 s
 
 ![Harriet Tubman](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/harriet_tubman2.png)
 
-
 ### The Trail of Tears (1830 - 1850)
 The Indian Removal Act of 1930 forced the removal of Native American tribes such as the Cherokee, Creek, Choctaw, Chickasaw, and Seminole.  They were forced to move from their ancestral homelands in south eastern United States to present day Oklahoma.  Black people were part of this, for example the Black Seminoles, as some were living within the tribes as free, mixed heritage, and enslaved.
 
