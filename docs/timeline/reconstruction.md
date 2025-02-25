@@ -5,16 +5,25 @@ Special Field Order No. 15 was issues on January 1865 by Union General William T
 
 After the Assassination of Abraham Lincoln, Andrew Johnson became president and rolled back the changes and gave much of the land back to its confederate owners.  With no where to turn, many blacks entered shared cropping and tenant farming systems while others migrated to other areas.
 
+---
+
+### The 14th Ammendment (1868)
+This established that anyone born and naturalized in the U.S. is a citizen, which extremely important to the newly freed slaves to be recongnized as fill citizens.
+
+---
+
 ### Post Civil War Violence
 After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.
 
 #### Ku Klux Klan (1865)
-The Ku Klux Klan is a white supremacist group founded in 1965 at the beginning of the reconstruction period.  Allying with other white supremacist adjacent groups and militias, they engaged in widespread violence, which included threats, beatings, and lynchings, to terrorize Black people and polling places and political gatherings.
+The Ku Klux Klan (KKK) is a white supremacist group founded in 1965 at the beginning of the reconstruction period.  Allying with other white supremacist adjacent groups and militias, they engaged in widespread violence, which included threats, beatings, and lynchings, to terrorize Black people and polling places and political gatherings.
 
 ![KKK Night Rally](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/kkk_night_rally.png)
 
 #### Colfax Massacre (1873)
 In Colfax, Louisiana, an armed group of white supremacist had a violent clash with a mostly Black militia at a courthouse, resulting in the deaths of approximately 150 Black people. This incident is just one of many that highlighted the extreme risks associated with Black political engagement during this period.
+
+---
 
 ### Jim Crow (1870s)
 

@@ -20,21 +20,31 @@ According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 milli
 
 Many African kingdoms in west and central Africa, such as Mali, Gambia, Guinea-Bissau, Senegal, Congo, were suppliers of slaves.  Historian David Richardson has suggested that roughly 70–80% of enslaved Africans were taken as a result of raids, warfare, or other similar violent conflicts and sold as prisoners of war.  Some researchers estimate about 10-20% enslaved Africans were kidnapped.  Trading posts and forts were setup along the West African coast by countries such as Britian, Spain, France, and the Netherlands.
 
+---
+
 ### Fort Mose - First Black Settlement (1738)
 Fort Mose is the first legally recognized free black settlement near St. Augustine Florida.  It was a military outpost for the Spanish as well as a place of refuge for runaway slaves.  Residents gained their freedom by pledging loyalty to Spain and converting to Catholicism.
+
+---
 
 ### Anthony Johnson - First Black Slave Owner
 The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for a paid voyage to America.
 
 He obtained his freedom by 1651 and became a landowner, opening him up to participate socially and economically.  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
 
+---
+
 ### Crispus Attucks and the Boston Massacre (March 5, 1770)
 Crispus Attucks was a sailor and dockworker who became a symbol of resistance in Boston during a confrontation between British soldiers and American colonist.  The boiling tensions became fatal and Attucks and other protesters were fatally shot by the British.  It is widely accepted that Crispus was the first casualty of the American Revolutionary War.
 
 ![Crispus Attucks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/crispus_attucks3.png)
 
+---
+
 ### The Revolutionary War (1776)
 There are some historians who estimate about 5000 to 8000 black men served in the Continental Army and other militias during the war.  Estimates of about 3,000 to 5,000 fought on the side of the British as they were promised freedom via [Lord Dunmore’s Proclamation](https://en.wikipedia.org/wiki/Dunmore%27s_Proclamation).
+
+---
 
 ### Slave Rebellions (1739-1831)
 
@@ -50,6 +60,8 @@ The first successful slave revolt led to Haiti’s independence, challenging the
 ##### Nat Turner Rebellion (1831)
 Nat Turner, who was an enslaved preacher in Southampton Country, Virginia, led a rebellion that lasted for about 2 days.  Some estimate that 50 - 60 white people were killed and 100 - 200 black people (some not involved) while the rebellion lasted.  Nat turner and those involved were all eventually caught and executed.  More restrictions on education and literacy were placed on black people as well as other harsher laws and measures.
 
+---
+
 ### Abolitionist Milestones and Legal Shifts (Early 1800s)
 
 ##### Britain Abolishes the Transatlantic Slave Trade (1807)
@@ -58,8 +70,12 @@ The British parliament passed the Abolition of the Slave Trade Act which made it
 ##### The United States Abolishes Importing Slaves (1808)
 Following Britain's footsteps a year prior, The United States passes legislation to end the importation of slaves.  Slavery still continued domestically however and slaves were still smuggled into the US.
 
+---
+
 ### Slave Breeding
 Slave owners systematically forced slaves to have children after importing slaves were illegal.
+
+---
 
 ### The Underground Railroad (1830-1865)
 A network of secret passages and safe houses that helped many black slaves escape to free states such as Canada.
@@ -69,8 +85,12 @@ An abolitionist  and social activist who went on about 13 missions to save aroun
 
 ![Harriet Tubman](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/harriet_tubman2.png)
 
+---
+
 ### The Trail of Tears (1830 - 1850)
 The Indian Removal Act of 1930 forced the removal of Native American tribes such as the Cherokee, Creek, Choctaw, Chickasaw, and Seminole.  About 60,000 Indians and 2,000 to 5,000 Blacks were forced to move from their ancestral homelands in south eastern United States to present day Oklahoma.
+
+---
 
 ### The Seminole Wars
 
@@ -88,6 +108,8 @@ Triggered by forced removal policies under the Indian Removal Act, the Seminoles
 ##### Third Seminole War (1855–1858)
 Marked by a series of low-intensity skirmishes, this final conflict focused on removing the remaining Seminole groups. It gradually tapered off, resulting in a de facto end to large-scale hostilities, with a small community of Seminoles continuing to live in Florida.
 
+---
+
 ### The American Civil War (1861–1865)
 About 180,000 Black Americans fought for the union during the civil war.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
 
@@ -99,3 +121,4 @@ President Lincoln issues the Emancipation Proclamation, which declared all slave
 
 ##### End of the War and the 13th Amendment (1865)
 The Civil War ends, and with the ratification of the 13th Amendment, slavery is abolished throughout the United States.  There are some studies that in 1960 the estimated value of all the slaves in the US was approximately 3 billion (90 billion today) which was more that the estimated gold reserves which was roughly 200-300 million.
+
