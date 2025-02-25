@@ -47,6 +47,11 @@ The first successful slave revolt led to Haiti’s independence, challenging the
 ##### Nat Turner Rebellion (1831)
 Nat Turner, who was an enslaved preacher in Southampton Country, Virginia, led a rebellion that lasted for about 2 days.  Some estimate that 50 - 60 white people were killed and 100 - 200 black people (some not involved) while the rebellion lasted.  Nat turner and those involved were all eventually caught and executed.  More restrictions on education and literacy were placed on black people as well as other harsher laws and measures.
 
+##### John Horse
+John Horse was a legendary Seminole warrior and leader who played an important role in resisting slavery and leading others to freedom.  The Seminole tribe have already dealt with force removal from Florida by this time and fled to Mexico where they established communities and continued to resist the US army.
+
+![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
+
 ### Abolitionist Milestones and Legal Shifts (Early 1800s)
 
 ##### Britain Abolishes the Transatlantic Slave Trade (1807)
@@ -69,7 +74,16 @@ An abolitionist  and social activist who went on about 13 missions to save aroun
 ### The Trail of Tears (1830 - 1850)
 The Indian Removal Act of 1930 forced the removal of Native American tribes such as the Cherokee, Creek, Choctaw, Chickasaw, and Seminole.  About 60,000 Indians and 2,000 to 5,000 Blacks were forced to move from their ancestral homelands in south eastern United States to present day Oklahoma.
 
-<!-- Black people were part of this, for example the Black Seminoles, as some were living within the tribes as free, mixed heritage, and enslaved. -->
+### The Seminole Wars
+
+##### First Seminole War (1817–1818)
+U.S. forces, led by General Andrew Jackson, invaded Florida to pursue Seminoles and runaway slaves, weakening Spanish control and setting the stage for U.S. acquisition of the territory.
+
+##### Second Seminole War (1835–1842)
+Triggered by forced removal policies under the Indian Removal Act, the Seminoles waged a prolonged guerrilla campaign in the challenging terrain of Florida’s swamps, inflicting heavy costs on U.S. forces while many retained their freedom by retreating into the Everglades.
+
+##### Third Seminole War (1855–1858)
+Marked by a series of low-intensity skirmishes, this final conflict focused on removing the remaining Seminole groups. It gradually tapered off, resulting in a de facto end to large-scale hostilities, with a small community of Seminoles continuing to live in Florida.
 
 ### The American Civil War (1861–1865)
 About 180,000 Black Americans fought for the union during the civil war.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
