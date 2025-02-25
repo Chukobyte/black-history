@@ -16,11 +16,6 @@ The Ku Klux Klan is a white supremacist group founded in 1965 at the beginning o
 #### Colfax Massacre (1873)
 In Colfax, Louisiana, an armed group of white supremacist had a violent clash with a mostly Black militia at a courthouse, resulting in the deaths of approximately 150 Black people. This incident is just one of many that highlighted the extreme risks associated with Black political engagement during this period.
 
-#### John Horse
-John Horse was a legendary Seminole warrior and leader who played an important role in resisting slavery and leading others to freedom.  The Seminole tribe have already dealt with force removal from Florida by this time and fled to Mexico where they established communities and continued to resist the US army.
-
-![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
-
 ### Jim Crow (1870s)
 
 #### Backstory

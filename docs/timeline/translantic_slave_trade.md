@@ -20,6 +20,9 @@ According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 milli
 
 Many African kingdoms in west and central Africa, such as Mali, Gambia, Guinea-Bissau, Senegal, Congo, were suppliers of slaves.  Historian David Richardson has suggested that roughly 70–80% of enslaved Africans were taken as a result of raids, warfare, or other similar violent conflicts and sold as prisoners of war.  Some researchers estimate about 10-20% enslaved Africans were kidnapped.  Trading posts and forts were setup along the West African coast by countries such as Britian, Spain, France, and the Netherlands.
 
+### Fort Mose - First Black Settlement (1738)
+Fort Mose is the first legally recongnized free black settlement near St. Augustine Florida.  It was a military outpost for the Spanish as well as a place of refuge for runaway slaves.  Residents gained their freedom by pledging loyalty to Spain and converting to Catholism.
+
 ### Anthony Johnson - First Black Slave Owner
 The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for a paid voyage to America.
 
@@ -47,11 +50,6 @@ The first successful slave revolt led to Haiti’s independence, challenging the
 ##### Nat Turner Rebellion (1831)
 Nat Turner, who was an enslaved preacher in Southampton Country, Virginia, led a rebellion that lasted for about 2 days.  Some estimate that 50 - 60 white people were killed and 100 - 200 black people (some not involved) while the rebellion lasted.  Nat turner and those involved were all eventually caught and executed.  More restrictions on education and literacy were placed on black people as well as other harsher laws and measures.
 
-##### John Horse
-John Horse was a legendary Seminole warrior and leader who played an important role in resisting slavery and leading others to freedom.  The Seminole tribe have already dealt with force removal from Florida by this time and fled to Mexico where they established communities and continued to resist the US army.
-
-![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
-
 ### Abolitionist Milestones and Legal Shifts (Early 1800s)
 
 ##### Britain Abolishes the Transatlantic Slave Trade (1807)
@@ -76,8 +74,13 @@ The Indian Removal Act of 1930 forced the removal of Native American tribes such
 
 ### The Seminole Wars
 
+##### John Horse
+John Horse was a legendary Seminole warrior and leader who played an important role, especially in the Second Seminole War, in resisting slavery and leading others to freedom.
+
+![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
+
 ##### First Seminole War (1817–1818)
-U.S. forces, led by General Andrew Jackson, invaded Florida to pursue Seminoles and runaway slaves, weakening Spanish control and setting the stage for U.S. acquisition of the territory.
+General and soon to be president Andrew Jackson, invaded Florida to purse Seminoles and runaway slaves.  By weakening Spanish control in Florida, this set the stage for the U.S. to acquire the territory.
 
 ##### Second Seminole War (1835–1842)
 Triggered by forced removal policies under the Indian Removal Act, the Seminoles waged a prolonged guerrilla campaign in the challenging terrain of Florida’s swamps, inflicting heavy costs on U.S. forces while many retained their freedom by retreating into the Everglades.
