@@ -5,6 +5,14 @@ Founding of the National Association for the Advancement of Colored People (NAAC
 
 ---
 
+### World War I (1914-1918)
+Roughly 400,000 black men served in the military during the first world war, making up about 10% of the military.
+
+#### Harlem Hellfighters
+369th Infantry Regiment, also known as the "Harlem Hellfighters", is one of the most celebrated black units from World War I.
+
+---
+
 ### Movie: Birth of a Nation (1915)
 One of the first major motion pictures released, depicting the KKK as the good guys and distorting history to make the slaves the bad guys.
 
@@ -29,12 +37,12 @@ Over a course of a few days, the entire town of Rosewood, Florida was destroyed 
 ### The Great Migration (1910s–1930s)
 Millions of Black Americans migrate from the segregated rural South to urban centers in the North and West, to escape violence and oppressive conditions and to seek better opportunities.
 
+<!-- --- -->
+
+<!-- ### Harlem Renaissance (1920s) -->
+<!-- A vibrant cultural movement in New York City’s Harlem neighborhood, celebrating Black art, music, literature, and intellectualism—redefining Black identity and cultural expression in America. -->
+
 ---
 
-### Harlem Renaissance (1920s)
-A vibrant cultural movement in New York City’s Harlem neighborhood, celebrating Black art, music, literature, and intellectualism—redefining Black identity and cultural expression in America.
-
----
-
-### World War II (1940s)
-Black Americans serve in the military and on the home front, laying the groundwork for the post-war civil rights struggles with initiatives like the Double V Campaign, which called for victory against fascism abroad and racial injustice at home.
+### World War II (1939-1945)
+Approximately 1.2 million black american men faught in World War II, making up 10% of the military.
