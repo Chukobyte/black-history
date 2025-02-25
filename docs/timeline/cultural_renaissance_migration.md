@@ -1,11 +1,13 @@
 ## Cultural Renaissance and the Great Migration
 
+### The 14th Ammendment (1868)
+This established that anyone born and naturalized in the U.S. is a citizen, which extremely important to the newly freed slaves to be recongnized as fill citizens.
+
 ### National Association for the Advancement of Colored People (1909)
 Founding of the National Association for the Advancement of Colored People (NAACP) becomes a cornerstone for legal and social challenges against racial injustice.
 
 ### Movie: Birth of a Nation (1915)
 One of the first major motion pictures released, depicting the KKK as the good guys and distorting history to make the slaves the bad guys.
-
 
 ### Race Riots
 
@@ -22,7 +24,7 @@ In Tulsa, Oklahoma, the prosperous Greenwood District, that contained a high per
 Over a course of a few days, the entire town of Rosewood, Florida was destroyed by an angry white mob.
 
 ### The Great Migration (1910s–1930s)
-Millions of Black Americans relocate from the segregated rural South to urban centers in the North and West, seeking better opportunities and escaping oppressive conditions.
+Millions of Black Americans migrate from the segregated rural South to urban centers in the North and West, to escape violence and oppressive conditions and to seek better opportunities.
 
 ### Harlem Renaissance (1920s)
 A vibrant cultural movement in New York City’s Harlem neighborhood, celebrating Black art, music, literature, and intellectualism—redefining Black identity and cultural expression in America.
