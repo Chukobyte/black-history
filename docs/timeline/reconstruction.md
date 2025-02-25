@@ -5,7 +5,7 @@ Special Field Order No. 15 was issues on January 1865 by Union General William T
 
 After the Assassination of Abraham Lincoln, Andrew Johnson became president and rolled back the changes and gave much of the land back to its confederate owners.  With no where to turn, many blacks entered shared cropping and tenant farming systems while others migrated to other areas.
 
-### Post Civil Violence
+### Post Civil War Violence
 After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.
 
 #### Ku Klux Klan (1965)
