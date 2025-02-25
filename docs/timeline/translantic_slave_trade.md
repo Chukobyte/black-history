@@ -42,7 +42,7 @@ Crispus Attucks was a sailor and dockworker who became a symbol of resistance in
 ---
 
 ### The Revolutionary War (1776)
-There are some historians who estimate about 5000 to 8000 black men served in the Continental Army and other militias during the war.  Estimates of about 3,000 to 5,000 fought on the side of the British as they were promised freedom via [Lord Dunmore’s Proclamation](https://en.wikipedia.org/wiki/Dunmore%27s_Proclamation).
+There are some historians who estimate about 5000 to 8000 black men served in the Continental Army and other militias during the war, which some researchers estimate about 2%-5% of the army.  Estimates of about 3,000 to 5,000 fought on the side of the British as they were promised freedom via [Lord Dunmore’s Proclamation](https://en.wikipedia.org/wiki/Dunmore%27s_Proclamation).
 
 ---
 
@@ -111,7 +111,7 @@ Marked by a series of low-intensity skirmishes, this final conflict focused on r
 ---
 
 ### The American Civil War (1861–1865)
-About 180,000 Black Americans fought for the union during the civil war.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
+About 180,000 Black Americans fought for the Union Army and approximately 20,000 served in the Union Navy during the civil war, which was about 10% of the Union's overall fighting force.  It is estimated that a few thousand fought on the confederate side, mostly likely being forced to.
 
 ##### Devil's Punchbowl - Slave Concentration Camp
 The Devil's Punchbowl was an internment camp created by the Union army in Natchez, Mississippi, that held freed slaves.  Many slaves died of starvation and disease, with some estimates around 20,000 in one year.
