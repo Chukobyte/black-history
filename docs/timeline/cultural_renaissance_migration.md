@@ -37,6 +37,22 @@ Over a course of a few days, the entire town of Rosewood, Florida was destroyed 
 ### The Great Migration (1910s–1930s)
 Millions of Black Americans migrate from the segregated rural South to urban centers in the North and West, to escape violence and oppressive conditions and to seek better opportunities.
 
+---
+
+### Cultural Renaissance
+
+#### Music
+Blues, jazz, swing, soul, and rock 'n' roll to name a few genres
+
+#### Literature
+Langston Hughes, Zora Neale Hurston, and Claude McKay.
+
+#### Visual Arts
+Aaron Douglas
+
+#### Apollo Theatre
+A venue in Harlem.
+
 <!-- --- -->
 
 <!-- ### Harlem Renaissance (1920s) -->
