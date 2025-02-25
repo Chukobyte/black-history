@@ -21,7 +21,7 @@ According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 milli
 Many African kingdoms in west and central Africa, such as Mali, Gambia, Guinea-Bissau, Senegal, Congo, were suppliers of slaves.  Historian David Richardson has suggested that roughly 70–80% of enslaved Africans were taken as a result of raids, warfare, or other similar violent conflicts and sold as prisoners of war.  Some researchers estimate about 10-20% enslaved Africans were kidnapped.  Trading posts and forts were setup along the West African coast by countries such as Britian, Spain, France, and the Netherlands.
 
 ### Fort Mose - First Black Settlement (1738)
-Fort Mose is the first legally recongnized free black settlement near St. Augustine Florida.  It was a military outpost for the Spanish as well as a place of refuge for runaway slaves.  Residents gained their freedom by pledging loyalty to Spain and converting to Catholism.
+Fort Mose is the first legally recognized free black settlement near St. Augustine Florida.  It was a military outpost for the Spanish as well as a place of refuge for runaway slaves.  Residents gained their freedom by pledging loyalty to Spain and converting to Catholicism.
 
 ### Anthony Johnson - First Black Slave Owner
 The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for a paid voyage to America.
