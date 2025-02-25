@@ -3,6 +3,20 @@
 ### National Association for the Advancement of Colored People (1909)
 Founding of the National Association for the Advancement of Colored People (NAACP) becomes a cornerstone for legal and social challenges against racial injustice.
 
+### Race Riots
+
+#### Red Summer (1919)
+Red Summer was a period in mid 1919 when racial tensions where at high levels.  Violence from racial riots and white supremist terrorism occured in multiple cities across the U.S.
+
+#### Ocoee Riot (1920)
+Approximately 30 black people were killed for attempting to excercise their right to vote.
+
+#### Black Wallstreet - Tulsa Race Massacre (1921)
+In Tulsa, Oklahoma, the prosperous Greenwood District, that contained a high percentage successul black professional, was destroyed by an angry white mob.
+
+#### Rosewood Massacre (1923)
+Over a course of a few days, the entire town of Rosewood, Florida was destroyed by an angry white mob.
+
 ### The Great Migration (1910s–1930s)
 Millions of Black Americans relocate from the segregated rural South to urban centers in the North and West, seeking better opportunities and escaping oppressive conditions.
 

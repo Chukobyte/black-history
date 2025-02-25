@@ -8,7 +8,7 @@ After the Assassination of Abraham Lincoln, Andrew Johnson became president and 
 ### Post Civil War Violence
 After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.
 
-#### Ku Klux Klan (1965)
+#### Ku Klux Klan (1865)
 The Ku Klux Klan is a white supremacist group founded in 1965 at the beginning of the reconstruction period.  Allying with other white supremacist adjacent groups and militias, they engaged in widespread violence, which included threats, beatings, and lynchings, to terrorize Black people and polling places and political gatherings.
 
 ![KKK Night Rally](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/kkk_night_rally.png)
