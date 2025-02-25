@@ -3,6 +3,10 @@
 ### National Association for the Advancement of Colored People (1909)
 Founding of the National Association for the Advancement of Colored People (NAACP) becomes a cornerstone for legal and social challenges against racial injustice.
 
+### Movie: Birth of a Nation (1915)
+One of the first major motion pictures released, depicting the KKK as the good guys and distorting history to make the slaves the bad guys.
+
+
 ### Race Riots
 
 #### Red Summer (1919)
