@@ -20,6 +20,8 @@ One of the first major motion pictures released, depicting the KKK as the good g
 
 ### Race Riots
 
+Race riots ran rampant throughout the 19th century within the U.S. and these are just a few of the many incidences that occured.
+
 #### Atlanta Race Massacre (1906)
 An armed white mob, over the course of 2 days, killed over 25 Black Americans.
 

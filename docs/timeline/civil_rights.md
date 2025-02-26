@@ -1,31 +1,44 @@
 ## The Civil Rights Movement and the Road to Equality
 
-### Judicial and Social Milestones
-1954: Brown v. Board of Education rules that segregated schools are inherently unequal, setting a legal precedent for desegregation.
+### Brown v. Board of Education (1954)
+Brown v. Board of Education rules that segregated schools are inherently unequal, setting a legal precedent for desegregation.
 
 ---
 
-### Catalysts for Change
-1955–1956: The Montgomery Bus Boycott, sparked by Rosa Parks’ refusal to give up her seat, galvanizes national and international support for the Civil Rights Movement.
+### The Montgomery Bus Boycott (1955-1956)
+The Montgomery Bus Boycott, sparked by Rosa Parks’ refusal to give up her seat, galvanizes national and international support for the Civil Rights Movement.
 
 ---
 
-### Mass Mobilizations and Landmark Legislation
-1963: The March on Washington culminates in Martin Luther King Jr.’s iconic “I Have a Dream” speech, symbolizing the unity and resolve of the movement.
-
-1964: The Civil Rights Act is passed, prohibiting discrimination based on race, color, religion, sex, or national origin.
-
-1965: The Voting Rights Act is enacted, aiming to eliminate barriers to voting for Black Americans and other minorities.
+### Fred Hampton
 
 ---
 
-### The Rise of Black Empowerment
-1967: The Black Panther Party is formed, advocating for self-defense, community control, and social justice.
+### Martin Luther King Jr
 
 ---
 
-### Pivotal Loss and Transformation
-1968: The assassination of Martin Luther King Jr. marks a somber turning point, deepening the resolve for systemic change while intensifying calls for Black empowerment.
+### Malcohm X
+
+---
+
+### March on Washington (1963)
+The March on Washington culminates in Martin Luther King Jr.’s iconic “I Have a Dream” speech, symbolizing the unity and resolve of the movement.
+
+---
+
+### Civil Right Act (1964)
+The Civil Rights Act is passed, prohibiting discrimination based on race, color, religion, sex, or national origin.
+
+---
+
+### Voting Rights Act (1965)
+The Voting Rights Act is enacted, aiming to eliminate barriers to voting for Black Americans and other minorities.
+
+---
+
+### The Black Panthers (1967)
+The Black Panther Party is formed, advocating for self-defense, community control, and social justice.
 
 ---
 
