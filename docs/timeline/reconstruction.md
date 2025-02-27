@@ -16,7 +16,7 @@ This established that anyone born and naturalized in the U.S. is a citizen, whic
 After the civil war and slavery was abolished, many black communities and Native American allies found themselves under constant threat still of violent oppression and land loss.
 
 #### Ku Klux Klan (1865)
-The Ku Klux Klan (KKK) is a white supremacist group founded in 1965 at the beginning of the reconstruction period.  Allying with other white supremacist adjacent groups and militias, they engaged in widespread violence, which included threats, beatings, and lynchings, to terrorize Black people at polling places and political gatherings.  They took on many of the same roles as the slave patrols.
+The Ku Klux Klan (KKK) is a white supremacist group founded in 1965 at the beginning of the reconstruction period.  Allying with other white supremacist adjacent groups and militias, they engaged in widespread violence, which included threats, beatings, and lynchings, to terrorize Black people at polling places and political gatherings.  The KKK took on many of the same roles as the slave patrols.
 
 ![KKK Night Rally](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/kkk_night_rally.png)
 

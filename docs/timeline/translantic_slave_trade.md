@@ -20,6 +20,8 @@ According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 milli
 
 Many African kingdoms in west and central Africa, such as Mali, Gambia, Guinea-Bissau, Senegal, Congo, were suppliers of slaves.  Historian David Richardson has suggested that roughly 70–80% of enslaved Africans were taken as a result of raids, warfare, or other similar violent conflicts and sold as prisoners of war.  Some researchers estimate about 10-20% enslaved Africans were kidnapped.  Trading posts and forts were setup along the West African coast by countries such as Britian, Spain, France, and the Netherlands.
 
+The types of experiences slaves went through varied depending on the location and owner.  In some cases slaves were violently abused and whipped, both male and female sexually violated, subjected to brutal experiments (such as Dr. J Marior Sims, "the father of gynecology", conducting surgeries on black women without consent or pain relief) any many others.
+
 ---
 
 ### Slave Patrols (1600s-1700s)
