@@ -25,6 +25,13 @@ In Colfax, Louisiana, an armed group of white supremacist had a violent clash wi
 
 ---
 
+### Hiram Revels - First Black Senator (1870)
+Born free in Fayetteville, North Carolina in 1827, Hiram Revels became the first black American to serve in congress as a senator in Mississippi.  Before serving as a senator he had a career as a ministor and educator, and helped to recruit black american regiments for the civil war.
+
+![Hiram Revels](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/hiram_revels.png)
+
+---
+
 ### Jim Crow (1870s)
 
 #### Backstory
