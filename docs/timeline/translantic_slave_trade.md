@@ -40,7 +40,7 @@ Nathaniel Bacon, a rich planter, lead a rebellion which consisted of a group of 
 ---
 
 ### The Invention of "White" (1681)
-In Virginia a law was passed where the term "white" was first ever used in documents, in which it banned black and white people from getting married.  This may not be the first time the concept is used, as the concept of "white" slowly evolved as with the caste system which put black people at the bottom.
+In Virginia a law was passed where the term "white" was first ever used in legal documents, in which it banned black and white people from getting married.  This may not be the first time the concept is used, as the concept of "white" slowly evolved as with the caste system which put black people at the bottom.
 
 ---
 
