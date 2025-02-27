@@ -1,10 +1,12 @@
 ## The Era of the Transatlantic Slave Trade and Enslavement
 
 ### Jamestown, Virginia (1607)
-The first successful English settlement in North America.  It was established by the Virginia Company of London, a company chartered by King James I.  The colony had a rough start initially with high mortality rates, but tobacco eventually shaped the town economy turning it to a profitable venture.  The initial labor force were indenture servants, which are people who agree to work for a number of years in exchange for a paid voyage to America
+The first successful English settlement in North America.  It was established by the Virginia Company of London, a company chartered by King James I.  The colony had a rough start initially with high mortality rates, but tobacco eventually shaped the town economy turning it to a profitable venture.
+
+The initial labor force were indenture servants from all background such, which are people who agree to work for a number of years in exchange for a paid voyage to America.  The majority of indentured servants were English, followed by Irish, Scottish, German, and Africans.
 
 ### Arrival of the First Recorded Slave (1619)
-1619 is the first recorded arrival of enslaved Africans in Jamestown, Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both slaves and freemen existed in America before 1619.
+1619 is the first recorded arrival of enslaved Africans in Jamestown, Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both African slaves and freemen existed in America before 1619.
 
 ![Jamestown Slaves](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/jamestown_slaves.png)
 According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 million Africans were forcibly taken and traded for roughly 350 years.  About 10 to 11 million survived the passages (80%-85% survived).  Of the total that survived, approximately 300,000 (roughly 3%) made it to North America.  Below is a chart of slaves that arrived in America:
@@ -27,23 +29,23 @@ The types of experiences slaves went through varied depending on the location an
 
 ---
 
-### Slave Patrols (1600s-1700s)
-Slave patrols were local militias consisting of white males who primary job was to search for runaway slaves.  They would patrol most often at night and on weekends, and they were also tasked with preventing and stopping rebellions.  Slave patrols were given the authority to stop, question, and inflict violence to slaves who violated slave codes.  The first recorded slave patrol was established in South Carolina in 1704.  Slave patrols are widely considered to be the precursor to modern policing.
-
----
-
-### Bacon's Rebellion (1676-1677)
-
-
----
-
 ### Anthony Johnson - First Black Slave Owner (1651)
 The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant.  He obtained his freedom by 1651 and became a landowner, opening him up to participate socially and economically.  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
 
 ---
 
+### Bacon's Rebellion (1676-1677)
+Nathaniel Bacon, a rich planter, lead a rebellion which consisted of a group of discontented settlers.   They burned the settlement down and caused the governor, William Berkeley, to flee.  This event is widely regarded as not only highlighting divide between the wealthy and poor settlers, it is also the catalyst to accelerating the shift from indentured servants to black slaves for the main labor force in America.
+
+---
+
 ### The Invention of "White" (1681)
-In Virginia a law was passed where the term "white" was first ever used in documents, in which it banned black people from marrying whites.  This may not be the first time the concept is used, as the concept of "white" slowly evolved as with the caste system white put blacks at the bottom below indentured servants.
+In Virginia a law was passed where the term "white" was first ever used in documents, in which it banned black and white people from getting married.  This may not be the first time the concept is used, as the concept of "white" slowly evolved as with the caste system which put black people at the bottom.
+
+---
+
+### Slave Patrols (1600s-1700s)
+Slave patrols were local militias consisting of white males who primary job was to search for runaway slaves.  They would patrol most often at night and on weekends, and they were also tasked with preventing and stopping rebellions.  Slave patrols were given the authority to stop, question, and inflict violence to slaves who violated slave codes.  The first recorded slave patrol was established in South Carolina in 1704.  Slave patrols are widely considered to be the precursor to modern policing.
 
 ---
 
@@ -86,12 +88,7 @@ Nat Turner, who was an enslaved preacher in Southampton Country, Virginia, led a
 The British parliament passed the Abolition of the Slave Trade Act which made it illegal to engage in the transatlantic slave trade.  This decision was driven by abolitionist groups such as the Quakers.  Slavery wasn't abolished for British colonies until 1834.
 
 ##### The United States Abolishes Importing Slaves (1808)
-Following Britain's footsteps a year prior, The United States passes legislation to end the importation of slaves.  Slavery still continued domestically however and slaves were still smuggled into the US.
-
----
-
-### Slave Breeding
-Slave owners systematically forced slaves to have children after importing slaves were illegal.
+Following Britain's footsteps a year prior, The United States passes legislation to end the importation of slaves.  Slavery still continued domestically however and slaves were still smuggled into the US.  Systemic slave breeding practices began to form to continue to meet the demands for labor.
 
 ---
 
