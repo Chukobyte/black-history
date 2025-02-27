@@ -1,7 +1,10 @@
 ## The Era of the Transatlantic Slave Trade and Enslavement
 
+### Jamestown, Virginia (1607)
+The first successful English settlement in North America.  It was established by the Virginia Company of London, a company chartered by King James I.  The colony had a rough start initially with high mortality rates, but tobacco eventually shaped the town economy turning it to a profitable venture.  The initial labor force were indenture servants, which are people who agree to work for a number of years in exchange for a paid voyage to America
+
 ### Arrival of the First Recorded Slave (1619)
-1619 is the first recorded arrival of enslaved Africans in Jamestown Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both slaves and freemen existed in America before 1619.
+1619 is the first recorded arrival of enslaved Africans in Jamestown, Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both slaves and freemen existed in America before 1619.
 
 ![Jamestown Slaves](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/jamestown_slaves.png)
 According to [slavevoyages.org](https://www.slavevoyages.org/), about 12.5 million Africans were forcibly taken and traded for roughly 350 years.  About 10 to 11 million survived the passages (80%-85% survived).  Of the total that survived, approximately 300,000 (roughly 3%) made it to North America.  Below is a chart of slaves that arrived in America:
@@ -29,10 +32,18 @@ Slave patrols were local militias consisting of white males who primary job was 
 
 ---
 
-### Anthony Johnson - First Black Slave Owner (1651)
-The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for a paid voyage to America.
+### Bacon's Rebellion (1676-1677)
 
-He obtained his freedom by 1651 and became a landowner, opening him up to participate socially and economically.  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
+
+---
+
+### Anthony Johnson - First Black Slave Owner (1651)
+The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant.  He obtained his freedom by 1651 and became a landowner, opening him up to participate socially and economically.  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
+
+---
+
+### The Invention of "White" (1681)
+In Virginia a law was passed where the term "white" was first ever used in documents, in which it banned black people from marrying whites.  This may not be the first time the concept is used, as the concept of "white" slowly evolved as with the caste system white put blacks at the bottom below indentured servants.
 
 ---
 
