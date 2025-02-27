@@ -22,15 +22,20 @@ Many African kingdoms in west and central Africa, such as Mali, Gambia, Guinea-B
 
 ---
 
-### Fort Mose - First Black Settlement (1738)
-Fort Mose is the first legally recognized free black settlement near St. Augustine Florida.  It was a military outpost for the Spanish as well as a place of refuge for runaway slaves.  Residents gained their freedom by pledging loyalty to Spain and converting to Catholicism.
+### Slave Patrols (1600s-1700s)
+Slave patrols were local militias consisting of white males who primary job was to search for runaway slaves.  They would patrol most often at night and on weekends, and they were also tasked with preventing and stopping rebellions.  Slave patrols were given the authority to stop, question, and inflict violence to slaves who violated slave codes.  The first recorded slave patrol was established in South Carolina in 1704.  Slave patrols are widely considered to be the precursor to modern policing.
 
 ---
 
-### Anthony Johnson - First Black Slave Owner
+### Anthony Johnson - First Black Slave Owner (1651)
 The first recorded black slave owner was Anthony Johnson.  He arrived in Virginia around the 1620s as an indentured servant, which is a person who agrees to work for a number of years in exchange for a paid voyage to America.
 
 He obtained his freedom by 1651 and became a landowner, opening him up to participate socially and economically.  He had 4 white and 1 black indentured servant, and eventually obtained legal ownership of a man named John Casor.
+
+---
+
+### Fort Mose - First Black Settlement (1738)
+Fort Mose is the first legally recognized free black settlement near St. Augustine Florida.  It was a military outpost for the Spanish as well as a place of refuge for runaway slaves.  Residents gained their freedom by pledging loyalty to Spain and converting to Catholicism.
 
 ---
 

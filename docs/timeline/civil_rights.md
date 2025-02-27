@@ -1,5 +1,18 @@
 ## The Civil Rights Movement and the Road to Equality
 
+### Organized Programs Targeting the Black Community
+
+#### COINTELPRO (1956–1971)
+A secret illegal Federal Bureau of Investigation (FBI) program designed to infiltrate, disrupt, and discredit political organizations that it considered to be a threat to national security and social order.  It targeted groups such as the Civil Right Movement, Black Panthers, Anti-War Activists, Socialist, Communists, Indigenous Rights movements.  This program was only discovered when activists broke into a Media, Pennsylvania office in 1971 and exposed those documents to the press.
+
+#### Operation Chaos (1956–1971)
+Operation Chaos was an illegal Central Intelligence Agency (CIA) intelligence gathering operation targeting civil rights and anti war activists and groups.
+
+#### Project MINARET (1960s–1970s)
+A program by the National Security Agency (NSA) that monitored the communications of civil rights and anti war activists and groups.
+
+---
+
 ### Brown v. Board of Education (1954)
 Brown v. Board of Education rules that segregated schools are inherently unequal, setting a legal precedent for desegregation.
 
@@ -18,7 +31,7 @@ The Montgomery Bus Boycott, sparked by Rosa Parks’ refusal to give up her seat
 
 ---
 
-### Malcohm X
+### Malcolm X
 
 ---
 
