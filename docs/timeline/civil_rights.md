@@ -11,6 +11,9 @@ Operation Chaos was an illegal Central Intelligence Agency (CIA) intelligence ga
 #### Project MINARET (1960s–1970s)
 A program by the National Security Agency (NSA) that monitored the communications of civil rights and anti war activists and groups.
 
+#### Tuskegee Syphilis Study (1932-1972)
+An unethical medical study conducted by the US Public Health Service (PHS) partnered with the Tuskegee Institute in Alabama.  The study included 600 black men who weren't told the true purpose of the stud and their syphilis went untreated for year even though a cure was readily available.
+
 ---
 
 ### Brown v. Board of Education (1954)

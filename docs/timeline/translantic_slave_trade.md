@@ -92,6 +92,11 @@ Following Britain's footsteps a year prior, The United States passes legislation
 
 ---
 
+### Liberia (1816)
+The U.S. government sponsored the colonization of a free black Americans country on the west coast of Africa.  In 1847, Liberia declared its independence becoming the first republic in Africa.
+
+---
+
 ### The Underground Railroad (1830-1865)
 A network of secret passages and safe houses that helped many black slaves escape to free states such as Canada.
 
