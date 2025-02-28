@@ -3,7 +3,7 @@
 ### Jamestown, Virginia (1607)
 The first successful English settlement in North America.  It was established by the Virginia Company of London, a company chartered by King James I.  The colony had a rough start initially with high mortality rates, but tobacco eventually shaped the town economy turning it to a profitable venture.
 
-The initial labor force were indenture servants from all background such, which are people who agree to work for a number of years in exchange for a paid voyage to America.  The majority of indentured servants were English, followed by Irish, Scottish, German, and Africans.
+The initial labor force for the Jamestown were indentured servants, which are people who agree to work for a number of years in exchange for a paid voyage to America.  The majority of indentured servants were English, followed by Irish, Scottish, German, and Africans.
 
 ### Arrival of the First Recorded Slave (1619)
 1619 is the first recorded arrival of enslaved Africans in Jamestown, Virginia.  Though it's most likely that this wasn't the first enslaved Africans, as both African slaves and freemen existed in America before 1619.
