@@ -98,10 +98,10 @@ The U.S. government sponsored the colonization of a free black Americans country
 ---
 
 ### The Underground Railroad (1830-1865)
-A network of secret passages and safe houses that helped many black slaves escape to free states such as Canada.
+A network of secret network of passages, safe houses, and activists that helped many black slaves escape to free states such as Canada.  The Underground Railroad was operated by white and black abolitionist and it is estimated that over 100,000 slaves escaped.
 
 ##### Harriet Tubman
-An abolitionist  and social activist who went on about 13 missions to save around 70 slaves including family and friends using the Underground Railroad.  During the civil war she served the Union army first as a cook and nurse, and later as a spy and a scout.  She is credited by some researchers as the first woman to lead an armed military operation in the US during the raid of Combahee Ferry which liberated approximately 700 slaves.
+An abolitionist and social activist who is known as the "Moses of her people".  Hartiet Tubman went on about 19 missions to save around 300 slaves including family and friends using the Underground Railroad.  During the civil war she served the Union army first as a cook and nurse, and later as a spy and a scout.  She is credited by some researchers as the first woman to lead an armed military operation in the US during the raid of Combahee Ferry which liberated approximately 700 slaves.
 
 ![Harriet Tubman](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/harriet_tubman2.png)
 
@@ -115,7 +115,7 @@ The Indian Removal Act of 1930 forced the removal of Native American tribes such
 ### The Seminole Wars
 
 ##### John Horse
-John Horse was a legendary Seminole warrior and leader who played an important role, especially in the Second Seminole War, in resisting slavery and leading others to freedom.
+John Horse, also known as Juan Caballo or Gopher John was a legendary Seminole warrior and leader who played an important role, especially in the Second Seminole War, in resisting slavery and leading others to freedom.  After the Second Seminole war, he helped negotiate with the government to secure land and freedom for Black Seminoles in Oklahoma.
 
 ![John Horse](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/john_horse.png)
 
