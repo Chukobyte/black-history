@@ -44,6 +44,9 @@ Malcolm X was a provocative and influential advocate for Black empowerment durin
 ### Rosa Parks
 On December 1, 1955, in Montgomery, Alabama, Rosa Parks refused to give up her seat to a white passenger on a segregated bus—a decision that was far more than an act of personal defiance. Her arrest sparked the Montgomery Bus Boycott, a 381-day mass protest that became a turning point in the Civil Rights Movement. Parks’ quiet strength and dignity helped galvanize national attention and set the stage for further challenges to racial segregation.
 
+#### Claudette Colvin
+A young 15 year old girl who refused to give up her seat in March of 1955, several months before Rosa Parks refusal.
+
 ---
 
 ### March on Washington (1963)
