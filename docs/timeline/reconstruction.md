@@ -1,7 +1,7 @@
 ## Reconstruction and the Struggle for Civil Rights
 
 ### Reparations: 40 Acres and a Mule (1865)
-Special Field Order No. 15 was issues on January 1865 by Union General William Tecumseh Sherman.  Land was set aside in coastal areas primarily in South Carolina, Florida, and Georgia for the recently freed slaves.  Each family was promised 40 acres of land and some provisions provided a mule to help with farming.  After the Assassination of Abraham Lincoln, Andrew Johnson became president and rolled back the changes and gave much of the land back to its confederate owners.
+Special Field Order No. 15 was issues on January 1865 by Union General William Tecumseh Sherman.  Land was set aside in coastal areas primarily in South Carolina, Florida, and Georgia for the recently freed slaves.  Each family was promised 40 acres of land and some provisions provided a mule to help with farming.  After the assassination of Abraham Lincoln, Andrew Johnson became president and rolled back the changes and gave much of the land back to its confederate owners.
 
 ---
 
