@@ -29,23 +29,33 @@ The Montgomery Bus Boycott, sparked by Rosa Parks’ refusal to give up her seat
 ### Fred Hampton
 Fred Hampton was a dynamic leader of the Chicago chapter of the Black Panther Party. Known for his inspiring oratory and community organizing, he championed social programs like free breakfasts and health clinics, aiming to empower oppressed communities. His life was tragically cut short in a controversial 1969 police raid, which many view as a politically motivated assassination.
 
+![Fred Hampton](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/fred_hampton.png)
+
 ---
 
 ### Martin Luther King Jr
 Martin Luther King Jr. emerged as the foremost leader of the Civil Rights Movement through his steadfast commitment to non-violent protest and civil disobedience. His leadership during key events—such as the Montgomery Bus Boycott and the March on Washington, where he delivered his famous “I Have a Dream” speech—helped galvanize national support for ending racial segregation and discrimination.
+
+![Martin Luther King Jr](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/mlk_jr.png)
 
 ---
 
 ### Malcolm X
 Malcolm X was a provocative and influential advocate for Black empowerment during the Civil Rights era. Initially promoting Black separatism and self-defense, his evolving perspective—particularly after his pilgrimage to Mecca—brought a broader view on racial justice and human rights. His eloquent and uncompromising critique of systemic racism left a lasting impact on the struggle for equality.
 
+![Malcolm X](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/malcolm_x.png)
+
 ---
 
 ### Rosa Parks
 On December 1, 1955, in Montgomery, Alabama, Rosa Parks refused to give up her seat to a white passenger on a segregated bus—a decision that was far more than an act of personal defiance. Her arrest sparked the Montgomery Bus Boycott, a 381-day mass protest that became a turning point in the Civil Rights Movement. Parks’ quiet strength and dignity helped galvanize national attention and set the stage for further challenges to racial segregation.
 
+![Rosa Parks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/rosa_parks.png)
+
 #### Claudette Colvin
 A young 15 year old girl who refused to give up her seat in March of 1955, several months before Rosa Parks refusal.
+
+![Claudette Colvin](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/claudette_colvin.png)
 
 ---
 
