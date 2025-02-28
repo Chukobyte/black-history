@@ -13,7 +13,7 @@ This established that anyone born and naturalized in the U.S. is a citizen, whic
 ---
 
 ### Convict Leasing (1860s)
-Black codes were reintroduced after the civil war.  Many black people were often improvisioned for minor offenses. 
+To fill the shortage of labor left after slavery was abolished, many states implemented the convict leasing system.  Under this system, local and state governments leased mostly black men to private companies, plantations, and industries (e.g. railroads).  Black codes were reintroduced after the civil war and many black people were often imprisoned for minor offenses.
 
 ---
 
