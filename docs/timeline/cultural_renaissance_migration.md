@@ -52,7 +52,7 @@ Over 6 million Black Americans migrate from the segregated rural South to urban 
 ### Cultural Renaissance
 
 #### Music
-Many black musicians contributed to the foundation of genres created in America such as Blues, jazz, swing, soul, and rock 'n' roll.
+Many black musicians founded and contributed to American made genres such as Blues, jazz, swing, soul, and rock 'n' roll.
 
 #### Literature
 Authors such as Langston Hughes, Zora Neale Hurston, and Claude McKay explored themes of racial identity, pride, and the black american exeperience.

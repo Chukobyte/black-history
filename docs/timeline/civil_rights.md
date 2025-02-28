@@ -21,27 +21,22 @@ Brown v. Board of Education rules that segregated schools are inherently unequal
 
 ---
 
-### The Montgomery Bus Boycott (1955-1956)
-The Montgomery Bus Boycott, sparked by Rosa Parks’ refusal to give up her seat, galvanizes national and international support for the Civil Rights Movement.
-
----
-
-### Fred Hampton
-Fred Hampton was a dynamic leader of the Chicago chapter of the Black Panther Party. Known for his inspiring oratory and community organizing, he championed social programs like free breakfasts and health clinics, aiming to empower oppressed communities. His life was tragically cut short in a controversial 1969 police raid, which many view as a politically motivated assassination.
+### Fred Hampton (1948-1969)
+Fred Hampton was a popular leader of the Chicago chapter of the Black Panther Party. He was known for being a charismatic public speaker, community organizing, and launching social programs like free breakfasts and health clinics, aiming to empower oppressed communities.  Hampton sought to build coalitions across racial lines with many different groups and even historically hostile ones such as the KKK.  Like many other civil rights activists, he was eventually setup and assassinated with the help of government agencies, with in this case was a police raid in which they shot him while he was asleep.
 
 ![Fred Hampton](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/fred_hampton.png)
 
 ---
 
 ### Martin Luther King Jr
-Martin Luther King Jr. emerged as the foremost leader of the Civil Rights Movement through his steadfast commitment to non-violent protest and civil disobedience. His leadership during key events—such as the Montgomery Bus Boycott and the March on Washington, where he delivered his famous “I Have a Dream” speech—helped galvanize national support for ending racial segregation and discrimination.
+Martin Luther King Jr. (MLK) emerged as the foremost leader of the Civil Rights Movement through his steadfast commitment to non-violent protest and civil disobedience. His leadership during key events—such as the Montgomery Bus Boycott and the March on Washington in 1963, where he delivered his famous “I Have a Dream” speech—helped galvanize national support for ending racial segregation and discrimination.  Not only was MLK assassinated in 1968, but his brother was assassinated 15 months after MLK, and his mother was killed in a church 6 years later.
 
 ![Martin Luther King Jr](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/mlk_jr.png)
 
 ---
 
 ### Malcolm X
-Malcolm X was a provocative and influential advocate for Black empowerment during the Civil Rights era. Initially promoting Black separatism and self-defense, his evolving perspective—particularly after his pilgrimage to Mecca—brought a broader view on racial justice and human rights. His eloquent and uncompromising critique of systemic racism left a lasting impact on the struggle for equality.
+Malcolm X was a provocative and influential advocate for Black empowerment during the Civil Rights era. Initially promoting Black separatism and self-defense, his evolving perspective—particularly after his pilgrimage to Mecca—brought a broader view on racial justice and human rights. His eloquent and uncompromising critique of systemic racism left a lasting impact on the struggle for equality.  His life was tragically cut short in 1965, when a group of gunmen fatally shot Malcolm X.
 
 ![Malcolm X](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/malcolm_x.png)
 
@@ -59,11 +54,6 @@ A young 15 year old girl who refused to give up her seat in March of 1955, sever
 
 ---
 
-### March on Washington (1963)
-The March on Washington culminates in Martin Luther King Jr.’s iconic “I Have a Dream” speech, symbolizing the unity and resolve of the movement.
-
----
-
 ### Civil Right Act (1964)
 The Civil Rights Act is passed, prohibiting discrimination based on race, color, religion, sex, or national origin.
 
@@ -74,10 +64,5 @@ The Voting Rights Act is enacted, aiming to eliminate barriers to voting for Bla
 
 ---
 
-### The Black Panthers (1967)
-The Black Panther Party is formed, advocating for self-defense, community control, and social justice.
-
----
-
-### By 1970
-The era transitions toward the Black Power movement and a broader rethinking of civil rights strategies, influencing political, cultural, and social thought well into the future.
+### The Black Panthers (1966)
+Founded in 1966 in Oakland, California by Huey Newton and Bobby Seale, the Black Panther Party is formed advocating for self-defense, community control, and social justice.  The FBI's COINTELPRO aimed to dismantle parties, stoking hostility between different civil rights and black organization which in some cases led to murders and imprisonment.
