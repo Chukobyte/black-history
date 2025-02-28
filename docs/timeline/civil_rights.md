@@ -53,7 +53,7 @@ On December 1, 1955, in Montgomery, Alabama, Rosa Parks refused to give up her s
 ![Rosa Parks](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/rosa_parks.png)
 
 #### Claudette Colvin
-A young 15 year old girl who refused to give up her seat in March of 1955, several months before Rosa Parks refusal.
+A young 15 year old girl who refused to give up her seat in March of 1955, several months before Rosa Parks refusal.  After refusing to give up her seat she boldly declared “It’s my constitutional right!”.  She was arrested and forcibly removed from the bus, becoming one of the first women in Montgomery to challenge bus segregation laws.  Her story was overshadowed as the civil rights activist at the time believed Rosa Parks was a better fit for the movement.
 
 ![Claudette Colvin](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/claudette_colvin.png)
 
