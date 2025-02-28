@@ -22,6 +22,8 @@ One of the first major motion pictures released, depicting the KKK as the good g
 
 Race riots ran rampant throughout the 19th century within the U.S. and these are just a few of the many incidences that occured.
 
+![Chicago Race Riot](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/race_riots_aftermath.png)
+
 #### Atlanta Race Massacre (1906)
 An armed white mob, over the course of 2 days, killed over 25 Black Americans.
 
@@ -42,29 +44,24 @@ Over a course of a few days, the entire town of Rosewood, Florida was destroyed 
 
 ---
 
-### The Great Migration (1910s–1930s)
-Millions of Black Americans migrate from the segregated rural South to urban centers in the North and West, to escape violence and oppressive conditions and to seek better opportunities.
+### The Great Migration (1910s–1970s)
+Over 6 million Black Americans migrate from the segregated rural South to urban centers in the North and West, to escape violence and oppressive conditions and to seek better opportunities.
 
 ---
 
 ### Cultural Renaissance
 
 #### Music
-Blues, jazz, swing, soul, and rock 'n' roll to name a few genres
+Many black musicians contributed to the foundation of genres created in America such as Blues, jazz, swing, soul, and rock 'n' roll.
 
 #### Literature
-Langston Hughes, Zora Neale Hurston, and Claude McKay.
+Authors such as Langston Hughes, Zora Neale Hurston, and Claude McKay explored themes of racial identity, pride, and the black american exeperience.
 
 #### Visual Arts
-Aaron Douglas
+Aaron Douglas, known as the father of black american art, use mordernist styles to depict black American life and culture.
 
-#### Apollo Theatre
-A venue in Harlem.
-
-<!-- --- -->
-
-<!-- ### Harlem Renaissance (1920s) -->
-<!-- A vibrant cultural movement in New York City’s Harlem neighborhood, celebrating Black art, music, literature, and intellectualism—redefining Black identity and cultural expression in America. -->
+#### Apollo Theatre (1914)
+The Apollo Theatre, opened in Harlem, New York in 1914, became one of the most popular venues for black entertainment.
 
 ---
 
