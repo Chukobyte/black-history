@@ -18,11 +18,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
 
 nav:
-  - Home: index.md
-  - Timeline:
-    - Introduction: timeline/introduction.md
-    - Pre-Translantic Slave Trade (Before 1619): timeline/pre_translantic_slave_trade.md
-    - Translantic Slave Trade (1619–1865): timeline/translantic_slave_trade.md
-    - Reconstruction (1865–1900): timeline/reconstruction.md
-    - Cultural Renaissance and the Great Migration (1900–1940): timeline/cultural_renaissance_migration.md
-    - The Civil Rights Movement (1940–1970): timeline/civil_rights.md
+  - Introduction: index.md
+  - Pre-Translantic Slave Trade (Before 1619): timeline/pre_translantic_slave_trade.md
+  - Translantic Slave Trade (1619–1865): timeline/translantic_slave_trade.md
+  - Reconstruction (1865–1900): timeline/reconstruction.md
+  - Cultural Renaissance and the Great Migration (1900–1940): timeline/cultural_renaissance_migration.md
+  - The Civil Rights Movement (1940–1970): timeline/civil_rights.md
