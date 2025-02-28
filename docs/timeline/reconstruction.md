@@ -40,7 +40,7 @@ Born free in Fayetteville, North Carolina in 1827, Hiram Revels became the first
 ### Jim Crow (1870s)
 
 #### Backstory
-Thomas Dartmouth "Daddy" Rice was a white entertainer who coined the stage character "Jim Crow".  The character was allegedly inspired by a crippled black man who could dance in spite of his condition.  In 1828, Rice appeared on stage with his face covered in tar (blackface).  This form of entertainment will become known as minstrel shows.
+Thomas Dartmouth "Daddy" Rice was a white entertainer who coined the stage character "Jim Crow".  The character was allegedly inspired by a crippled black man who could dance despite of his condition.  In 1828, Rice appeared on stage with his face covered in tar (blackface).  This form of entertainment will become known as minstrel shows.
 
 ![Jim Crow Poster](https://raw.githubusercontent.com/Chukobyte/black-history/main/assets/images/real_jim_crow.png)
 

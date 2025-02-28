@@ -66,4 +66,4 @@ The Apollo Theatre, opened in Harlem, New York in 1914, became one of the most p
 ---
 
 ### World War II (1939-1945)
-Approximately 1.2 million black american men faught in World War II, making up 10% of the military.
+Approximately 1.2 million black american men faught in World War II, making up 10% of the military.  Despite black american contributions, they still face system racism and discrimation both at home and abroad.  They were also the vistims of race riots, such as the riot in Fort Bragg, North Carolina in 1941.
